@@ -1,0 +1,143 @@
+@import "_colors.scss";
+@import "_rijksoverheid.scss";
+@import "_skiplinks.scss";
+@import "_rijksoverheid-header.scss";
+@import "smartgraph.min.css";
+@import "smartgraph-rid.css";
+@import "_primevue.css";
+
+a .router-link-active {
+  color: red !important;
+}
+
+a {
+  color: $primary;
+  text-decoration: none;
+}
+
+.page p a {
+  color: $primary;
+  text-decoration: underline;
+}
+
+a[target="_blank"]::before {
+  // https://stackoverflow.com/questions/47438877/how-to-hide-css-generated-content-from-screen-readers-without-html-markup/47451397#47451397
+  // Set alternative to "" so screen readers will work
+  content: "\1F875"/ "";
+  font-size: 1rem;
+  text-decoration: none;
+  margin-right: 0.1em;
+}
+
+.no-icon[target="_blank"]::before {
+  content: none;
+}
+
+a:hover {
+  color: $primaryDark;
+  text-decoration: underline;
+}
+
+.v-table > .v-table__wrapper > table > tbody > tr > th,
+.v-table > .v-table__wrapper > table > tbody > tr > td,
+.v-table > .v-table__wrapper > table > thead > tr > th,
+.v-table > .v-table__wrapper > table > tfoot > tr > th {
+  font-size: 1.1rem !important;
+}
+
+.v-table > .v-table__wrapper > table > tbody > tr > th,
+.v-table > .v-table__wrapper > table > tbody > tr > td {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+h2 {
+  font-size: 1.5rem !important;
+  font-weight: 600;
+  line-height: 2rem;
+  letter-spacing: normal !important;
+  text-transform: none !important;
+}
+
+html {
+  scroll-behavior: auto !important;
+}
+
+strong,
+h1,
+h2,
+h3,
+h4,
+h5,
+th {
+  font-family: "RO Sans Bold", sans-serif !important;
+}
+
+.text-subtitle-1 {
+  font-family: "RO Sans Bold", sans-serif !important;
+}
+
+.text-subtitle-2 {
+  font-family: "RO Sans", sans-serif !important;
+  color: $grijs6;
+}
+
+.v-table .v-table__wrapper > table > thead > tr > th {
+  color: black !important;
+}
+
+.v-field--variant-outlined .v-field__outline__start.v-locale--is-ltr,
+.v-locale--is-ltr .v-field--variant-outlined .v-field__outline__start {
+  border-radius: 0 !important;
+}
+.v-field--variant-outlined .v-field__outline__start.v-locale--is-rtl,
+.v-locale--is-rtl .v-field--variant-outlined .v-field__outline__start {
+  border-radius: 0 !important;
+}
+
+.v-field--variant-outlined .v-field__outline__end.v-locale--is-ltr,
+.v-locale--is-ltr .v-field--variant-outlined .v-field__outline__end {
+  border-radius: 0 !important;
+}
+.v-field--variant-outlined .v-field__outline__end.v-locale--is-rtl,
+.v-locale--is-rtl .v-field--variant-outlined .v-field__outline__end {
+  border-radius: 0 !important;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+.v-text-field {
+  input::placeholder {
+    color: black;
+    opacity: 1;
+  }
+}
+
+.v-label {
+  color: black;
+  opacity: 1;
+}
+
+.no-overlay {
+  --v-theme-overlay-multiplier: 0;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.sr-only {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}

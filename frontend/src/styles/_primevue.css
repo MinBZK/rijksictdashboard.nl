@@ -1,0 +1,15 @@
+.p-component,
+.p-inputtext {
+  font-family: inherit !important;
+  color: black !important;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.p-multiselect,
+.p-dropdown,
+.p-inputtext {
+  border-radius: 0 !important;
+}

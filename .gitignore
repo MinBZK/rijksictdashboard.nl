@@ -1,0 +1,18 @@
+frontend/node_modules
+backend/.venv
+__pycache__/
+backend/etl/export/*
+backend/notebooks/output/*
+backend/dev_db/dump/*
+# backend/dev_db/
+.runner_system_id
+
+backend/datacontrole/output/*
+backend/.coverage
+backend/app/data/preditor/*
+backend/.env
+backend/.env.personal
+backend/app/scripts/output/**
+.env
+
+**/coverage.xml

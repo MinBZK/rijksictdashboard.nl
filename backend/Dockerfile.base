@@ -1,0 +1,25 @@
+FROM python:3.11-slim
+
+# Make sure these are set, either here or in the base image.
+ENV YOUR_ENV=${YOUR_ENV} \
+  PYTHONFAULTHANDLER=1 \
+  PYTHONUNBUFFERED=1 \
+  PYTHONHASHSEED=random \
+  PIP_NO_CACHE_DIR=off \
+  PIP_DISABLE_PIP_VERSION_CHECK=on \
+  PIP_DEFAULT_TIMEOUT=100 \
+  POETRY_VERSION=1.8.2
+
+COPY ./poetry.lock /backend/poetry.lock
+COPY ./pyproject.toml /backend/pyproject.toml
+
+WORKDIR /backend
+
+RUN apt-get update && apt-get install -y gcc g++ musl-dev libpq-dev postgresql postgresql-contrib &&\
+    pip install "poetry==$POETRY_VERSION" && \
+    poetry config virtualenvs.create false && \
+    poetry install --no-interaction --no-ansi -v && \
+    apt-get remove -y gcc g++ musl-dev
+
+# Run pyright once to ensure Node is installed
+RUN pyright

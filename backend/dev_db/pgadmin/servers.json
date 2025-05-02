@@ -1,0 +1,14 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "RID",
+            "Group": "Servers",
+            "Port": 5432,
+            "Username": "postgres",
+            "Host": "db",
+            "PassFile": "./pgpass",
+            "SSLMode": "prefer",
+            "MaintenanceDB": "postgres"
+        }
+    }
+}

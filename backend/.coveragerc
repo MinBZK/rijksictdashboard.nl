@@ -1,0 +1,12 @@
+[run]
+branch=True
+source = app
+omit =
+    */__init__.py
+
+[report]
+exclude_lines =
+    import
+    from
+    logger
+    logging

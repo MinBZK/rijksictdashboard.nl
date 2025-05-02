@@ -1,0 +1,36 @@
+.dc-legend-item text {
+  font-size: 17px;
+  transform: translate(0px, 1px);
+}
+
+.y-axis-label,
+.x-axis-label {
+  font-size: 20px;
+}
+
+.x.axis text {
+  text-anchor: middle;
+  font-size: 16px;
+}
+
+.y.axis text {
+  font-size: 16px;
+}
+
+.dc-chart rect.bar {
+  stroke: black;
+  stroke-width: 0.5px;
+}
+
+.dc-chart .grid-line line {
+  stroke: #2e2d2d;
+}
+
+.dc-chart .pie-slice path {
+  stroke: rgb(0, 0, 0);
+  stroke-width: 0.5px;
+}
+
+.legend-right .dc-legend {
+  transform: translateX(100%) translateX(-340px);
+}

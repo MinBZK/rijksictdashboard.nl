@@ -1,0 +1,45 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "./backend"
+    },
+    {
+      "path": "./frontend"
+    }
+  ],
+  "settings": {
+    // "typescript.tsdk": "./frontend/node_modules/typescript/lib",
+    // "typescript.enablePromptUseWorkspaceTsdk": true,
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#00334d"
+    },
+    "search.exclude": {
+      "**/smart-graph": true,
+      "**/cms": true,
+      "**/alembic/scripts": true,
+      "**/alembic/versions": true,
+      "**/dev_db": true,
+      "**/etl/data": true,
+      "**/etl/export": true,
+      "**/app/assets": true,
+      "**/notebooks/input": true,
+      "**/datacontrole/**": true,
+      "**/src/styles/**": true,
+      "**/backend/alembic/scripts/**": true
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": ["./backend"],
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "files.exclude": {
+      "**/backend-beheer": true,
+      "**/frontend-beheer": true
+    },
+    "typescript.tsdk": "frontend/node_modules/typescript/lib"
+  }
+}

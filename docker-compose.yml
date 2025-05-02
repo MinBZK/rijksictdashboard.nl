@@ -1,0 +1,71 @@
+name: "Rijks ICT-dashboard"
+services:
+  # db:
+  #   image: postgres:15-alpine
+  #   restart: always
+  #   ports:
+  #     - ${POSTGRES_PORT}:5432
+  #   environment:
+  #     POSTGRES_USER: ${POSTGRES_USER}
+  #     POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+  #     POSTGRES_DB: ${POSTGRES_DB}
+  #   volumes:
+  #     - postgres:/var/lib/postgresql/data
+
+  # dbgate:
+  #   image: dbgate/dbgate:alpine
+  #   volumes:
+  #     - dbgate:/root/.dbgate
+  #   depends_on:
+  #     - db
+  #   ports:
+  #     - ${DBGATE_PORT}:3000
+  #   environment:
+  #     # docs: https://dbgate.org/docs/env-variables.html
+  #     CONNECTIONS: "CON1"
+  #     LABEL_CON1: "Postgres"
+  #     SERVER_CON1: "db"
+  #     USER_CON1: ${POSTGRES_USER}
+  #     PASSWORD_CON1: ${POSTGRES_PASSWORD}
+  #     PORT_CON1: 5432
+  #     ENGINE_CON1: postgres@dbgate-plugin-postgres
+
+  base-backend:
+    build:
+      context: ./backend
+      dockerfile: ./Dockerfile.base
+    image: base_backend
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: ./Dockerfile
+    environment:
+      - POSTGRES_SERVER=db
+      - POSTGRES_PORT=5432
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - SCRAPER_SERVER=${SCRAPER_SERVER}
+      - SHOW_API_DOCS=1
+    ports:
+      - 8000:8000
+    command: /bin/sh -c "uvicorn app.main:app --host 0.0.0.0 --port 8000"
+    depends_on:
+      - base-backend
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ./Dockerfile
+    restart: always
+    volumes:
+      - ./frontend/dist/:/app
+    ports:
+      - 5473:8080
+
+
+
+volumes:
+  postgres:
+  dbgate:

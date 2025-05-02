@@ -1,0 +1,336 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h4>
+        <a href="#ChartLayout" aria-label="Permalink" class="tsd-anchor-icon">Chart Layout</a>
+    </h4>
+    <h4>
+        <a href="#BarChart" aria-label="Permalink" class="tsd-anchor-icon">Bar Chart</a>
+    </h4>
+    <h4>
+        <a href="#TimeLine" aria-label="Permalink" class="tsd-anchor-icon">Time Line</a>
+    </h4>
+    <h4>
+        <a href="#PieChart" aria-label="Permalink" class="tsd-anchor-icon">Pie Chart</a>
+    </h4>
+
+    <section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-module">
+        <div class="tsd-comment tsd-typography">
+            <a id="ChartLayout" class="tsd-anchor"></a>
+            <h1>Chart layout</h1>
+            <div class="lead">
+                <p>Configuration for the layout of the Smart Graph specific for the charts.</p>
+            </div>
+        </div><div class="tsd-type-declaration">
+            <h4>Type declaration</h4><ul class="tsd-parameters">
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> transition<wbr>Duration<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">number</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Duration of the transition on redraw.</p>
+            </div>
+        </div>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> chart<wbr>Margins<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-symbol">{ </span>top<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">; </span>right<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">; </span>bottom<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol">; </span>left<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span><span class="tsd-signature-symbol"> }</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Margins for the chart to the chart wrapper.</p>
+            </div>
+        </div><ul class="tsd-parameters"><li class="tsd-parameter"><h5>top<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></h5></li><li class="tsd-parameter"><h5>right<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></h5></li><li class="tsd-parameter"><h5>bottom<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></h5></li><li class="tsd-parameter"><h5>left<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">number</span></h5></li></ul>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> colors<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">[]</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Colors of the chart.</p>
+            </div>
+        </div>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> number<wbr>Scale<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Is 'true' when number should be displayed with a 'K', 'M' or 'B' for thousands, millions and billions respectively. For example 1000000 will be 1M . Otherwise 'false'.</p>
+            </div>
+        </div>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> number<wbr>Format<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Sets the format used for displaying the numbers.</p>
+            </div>
+        </div>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> show<wbr>Group<wbr>In<wbr>Popup<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Is 'true' when the key/dimension of a group should be shown in the title on hover, otherwise 'false'.</p>
+            </div>
+        </div>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> rotate<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">number</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Number for the rotation of the x axis values for better reading and to lower the bottom margin. Also set this in the css, because otherwise the ticks flicker.</p>
+            </div>
+        </div>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> textAnchor<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>Text-anchor for the x Axis. Use values: "start", "middle", "end"</p>
+            </div>
+        </div>
+    </li>
+    <li class="tsd-parameter">
+        <h5><span class="tsd-flag ts-flagOptional">Optional</span> numberOfTicks<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">number</span></h5><div class="tsd-comment tsd-typography">
+            <div class="lead">
+                <p>A hint for the number of ticks on the y-axis.</p>
+            </div>
+        </div>
+    </li>
+</ul>
+        </div>
+    </section>
+    <hr />
+    <section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-module">
+        <div class="tsd-comment tsd-typography">
+            <a id="BarChart" class="tsd-anchor"></a>
+            <h1>Bar Chart Options</h1>
+            <div class="lead">
+                <p>Options for the bar chart.</p>
+            </div>
+        </div><div class="tsd-type-declaration">
+            <h4>Type declaration</h4><ul class="tsd-parameters">
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> clickable<wbr>Ticks<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when clicking on a tick should apply a filter on the bar chart, otherwise 'false'.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> show<wbr>Inline<wbr>Values<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when the value of the bars should be shown inside the bar, otherwise 'false'</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> domain<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">[]</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Values displayed on the x-axis of the bar chart. Values not in the domain, are added at the end. Usefull to change the order of the values.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> type<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">"grouped"</span><span class="tsd-signature-symbol"> | </span><span class="tsd-signature-type">"stacked"</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Type of bar chart. Only used for bar chart with multiple dimensions. On 'stacked' groups with the same first dimension will be on top of each other in a color based on the second dimension. On 'grouped' the bars will be next to each other in a color based on the second dimension.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> showXLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when the x label of the bars should be shown inside the bar, otherwise 'false'</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> xLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Value showed as x label.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> showYLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when the y label of the bars should be shown inside the bar, otherwise 'false'</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> yLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Value showed as y label.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> yLabelPadding<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">number</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Padding from the left border of the chart contaienr. <em>Default value: 12</em></p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> gap<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">number</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>The gap in pixels between the bars. <em>Default value: 2</em></p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> showGridLines<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when the gridlines should be shown, otherwise 'false' <em>Default value: false</em></p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> ordering<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">"numerical"</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>If 'numerical order the bars based on the value' <em>Default value: null</em></p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <hr />
+
+    <section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-module">
+        <div class="tsd-comment tsd-typography">
+            <a id="TimeLine" class="tsd-anchor"></a>
+            <h1>Time Line Options</h1>
+            <div class="lead">
+                <p>Options for the time line.</p>
+            </div>
+        </div><div class="tsd-type-declaration">
+            <h4>Type declaration</h4><ul class="tsd-parameters">
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> clickable<wbr>Ticks<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when clicking on a tick should apply a filter on the time line, otherwise 'false'.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> time<wbr>Interval<span class="tsd-signature-symbol">?: </span><span>"month" | "day" | "week" | "hour" | "minute"</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>The interval of time for grouping the dimension values and for filtering the chart.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> time<wbr>Format<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Format for converting the date time. Usefull when a part of the date time should be ignored, for example if you want to compare two years.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> showXLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when the x label of the bars should be shown inside the bar, otherwise 'false'</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> xLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Value showed as x label.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> showYLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when the y label of the bars should be shown inside the bar, otherwise 'false'</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> yLabel<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Value showed as y label.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> yLabelPadding<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">number</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Padding from the left border of the chart contaienr. <em>Default value: 12</em></p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> showGridLines<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when the gridlines should be shown, otherwise 'false' <em>Default value: false</em></p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <hr />
+
+    <section class="tsd-panel tsd-member tsd-kind-type-alias tsd-parent-kind-module">
+        <div class="tsd-comment tsd-typography">
+            <a id="PieChart" class="tsd-anchor"></a>
+            <h1>Pie Chart Options</h1>
+            <div class="lead">
+                <p>Options for the pie chart.</p>
+            </div>
+        </div><div class="tsd-type-declaration">
+            <h4>Type declaration</h4><ul class="tsd-parameters">
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> padding<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">number</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>External padding of the pie chart.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> external<wbr>Labels<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when labels should be displayed outside the slices of the pie chart, otherwise false.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> show<wbr>All<wbr>Labels<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when all labels should be displayed without considering the angle of the slice, otherwise false. If true, labels can be hard to read because they overlap.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> show<wbr>Labels<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when labels should be displayed, otherwise false.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> legend<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">boolean</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>Is 'true' when a legend should be added to the pie chart.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> domain<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">[]</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>The order of the values in the pie chart. Values not in the domain, are added at the beginning.</p>
+                        </div>
+                    </div>
+                </li>
+                <li class="tsd-parameter">
+                    <h5><span class="tsd-flag ts-flagOptional">Optional</span> ordering<span class="tsd-signature-symbol">?: </span><span class="tsd-signature-type">"numerical"</span></h5><div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>If 'numerical order the bars based on the value' <em>Default value: null</em></p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>

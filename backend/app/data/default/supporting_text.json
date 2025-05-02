@@ -1,0 +1,703 @@
+{
+    "en": {
+        "Grafieken": {
+            "GrafiekKostenCategorie": "",
+            "GrafiekDoorlooptijdwijzigingRedenen": "",
+            "GestartBeëindigdTitel": "",
+            "GrafiekDoorlooptijdAantallen": "",
+            "GrafiekGestartBeëindigd": "",
+            "DoorlooptijdAantallenTitel": "",
+            "DoorlooptijdwijzigingRedenenTitel": "",
+            "KostenCategorieTitel": ""
+        },
+        "Home": {
+            "Introductie": "",
+            "OpenData": "",
+            "IctKosten": "",
+            "MaatschappelijkeBaten": "",
+            "Introductie kengetallen": ""
+        },
+        "Contact": {
+            "content": ""
+        },
+        "Sitemap": {
+            "content": ""
+        },
+        "Privacyverklaring": {
+            "content": ""
+        },
+        "Copyright": {
+            "content": ""
+        },
+        "Cookies": {
+            "content": ""
+        },
+        "Toegankelijkheid": {
+            "content": "",
+            "preview": ""
+        },
+        "Kwetsbaarheid melden": {
+            "content": ""
+        },
+        "Rapportgeschiedenis": {
+            "content": ""
+        },
+        "Open data": {
+            "content": ""
+        },
+        "Over": {
+            "deel1": "",
+            "deel2": ""
+        },
+        "ICT-kosten": {
+            "kostenTotaalBL": "",
+            "kostenTotaalStelselTitel": "",
+            "kostenTotaalKV": "",
+            "content": "",
+            "Deel 1": "",
+            "Deel 2": ""
+        },
+        "Dashboard": {
+            "StatusverdelingTitel": "",
+            "ToelichtingTop3ToegevoegdeActiviteiten": "",
+            "ToelichtingTop3AfgerondeActiviteiten": "",
+            "ToelichtingAantalActiviteitenInUitvoering": "",
+            "ToelichtingAantalActiviteitenAfgerond": "",
+            "DashboardKopSubtitel": "",
+            "ToelichtingDoorlooptijd": "",
+            "ToelichtingBit": "",
+            "ToelichtingSchattingTotaleKosten": "",
+            "SchattingTotaleKostenSubtitel": "",
+            "SchattingTotaleKostenTitel": "",
+            "StatusverdelingSubtitel": "",
+            "DashboardKop": "",
+            "GewijzifdeIctActiviteiten": ""
+        },
+        "Onderwerpen": {
+            "content": "",
+            "preview": ""
+        },
+        "Ministeries": {
+            "content": ""
+        },
+        "ICT-activiteiten overzicht": {
+            "content": ""
+        },
+        "I-strategie": {
+            "preview": "",
+            "content": "",
+            "Deel 1": "",
+            "Deel 2": ""
+        },
+        "ICT-medewerkers": {
+            "preview": "",
+            "Deel 1": "",
+            "Deel 2": "",
+            "content": ""
+        },
+        "Duurzaamheid": {
+            "preview": "",
+            "content_deel2": "",
+            "content": "",
+            "Verminderen dubbele devices": "",
+            "Verminderen dataopslag": "",
+            "Bewustwording van gedrag": "",
+            "Efficiënt opslaan": "",
+            "Content zonder projecten": "",
+            "Innovatie van datacentra": ""
+        },
+        "I-plannen": {
+            "DEF": "",
+            "BZK": "",
+            "FIN": "",
+            "JENV": "",
+            "OCW": "",
+            "VWS": "",
+            "EZK": "",
+            "BZ": "",
+            "IENW": "",
+            "LNV": "",
+            "SZW": "",
+            "AZ": ""
+        },
+        "Maatschappelijke baten": {
+            "preview": "",
+            "continuïteit": "",
+            "compliance": "",
+            "veiligheid": "",
+            "content": "",
+            "efficiëntie": "",
+            "vakmanschap": "",
+            "duurzaamheid": "",
+            "dienstverlening": ""
+        },
+        "Release notes": {
+            "content": ""
+        },
+        "Archief": {
+            "content": ""
+        },
+        "AI": {
+            "content": "",
+            "preview": ""
+        },
+        "Algoritmen": {
+            "content": "",
+            "preview": "",
+            "Meer over verantwoord algoritmegebruik door de overheid": "",
+            "Impactvolle algoritmes": "",
+            "Openheid in Algoritmeregister": "",
+            "Doelen Algoritmeregister": ""
+        },
+        "Grote ICT-activiteiten": {
+            "preview": ""
+        },
+        "Architectuur": {
+            "content": "",
+            "preview": ""
+        },
+        "Softwarekwaliteit": {
+            "content": "",
+            "preview": ""
+        },
+        "Informatiehuishouding": {
+            "content": "",
+            "preview": "",
+            "Verbeteren van de informatiehuishouding": "",
+            "Volwassenheidsmeting": "",
+            "Stand van zaken per thema": "",
+            "Huidige stand van zaken": ""
+        },
+        "Informatiebeveiliging": {
+            "content": "",
+            "preview": "",
+            "introductie": ""
+        }
+    },
+    "nl": {
+        "Grafieken": {
+            "GrafiekKostenCategorie": "In deze grafiek zie je het aantal ICT-activiteiten per kostengroep.",
+            "GrafiekDoorlooptijdwijzigingRedenen": "<div>Soms verandert er iets tijdens de uitvoering van een ICT-activiteit. Wanneer dit een grote wijziging is, melden we dit aan de Tweede Kamer. We moeten dan namelijk aanpassingen doen die gevolgen kunnen hebben voor de kosten, de duur of het resultaat van de ICT-activiteit. <br><br>In die gevallen gaan we een nieuwe schatting maken. Dat noemen we een 'herijking'. Dit diagram laat zien welke redenen voor herijking er zijn en voor hoe veel ICT-activiteiten dit geldt.</div>",
+            "GestartBeëindigdTitel": "Recente wijzigingen in de status van ICT-activiteiten",
+            "GrafiekDoorlooptijdAantallen": "<div class=\"ewa-rteLine\">Hoe lang een ICT-activiteit duurt, kan om verschillende redenen worden aangepast.&nbsp;In deze grafiek zie je het aantal ICT-activiteiten ingedeeld op gewijzigde duur (eerder klaar, minder dan een jaar later klaar, meer dan een jaar later klaar dan bij de eerste schatting) en ongewijzigde duur ten opzichte van de eerste schatting.</div>",
+            "GrafiekGestartBeëindigd": "<div class=\"ewa-rteLine\">In deze grafiek ziet u hoe veel nieuwe, afgeronde en geannuleerde ICT-activiteiten er zijn per jaar.</div>\n<div class=\"ewa-rteLine\">&nbsp;</div>\n<div class=\"ewa-rteLine\">\n<ul style=\"list-style-type: disc;\">\n<li>Nieuw: een ICT-activiteit die is begonnen en nu in uitvoering is.</li>\n<li>Afgerond: een ICT-activiteit die helemaal klaar is.</li>\n<li>Geannuleerd: een ICT-activiteit die tijdens de uitvoering is stopgezet.</li>\n</ul>\n</div>",
+            "DoorlooptijdAantallenTitel": "Ontwikkeling in de duur van ICT-activiteiten",
+            "DoorlooptijdwijzigingRedenenTitel": "Redenen voor grote verandering in ICT-activiteit",
+            "KostenCategorieTitel": "Aantal ICT-activiteiten per kostengroep"
+        },
+        "Home": {
+            "Introductie": "<p>Op het Rijks ICT-dashboard vindt u informatie over hoe de Rijksoverheid werkt aan het verbeteren van de digitalisering. Onderdelen hiervan zijn de I-strategie, de grote ICT-activiteiten, duurzaamheid binnen de Rijksoverheid en de kosten en resultaten van ICT. Zo draagt het Rijks ICT-dashboard bij aan een open overheid.</p>",
+            "OpenData": "Alle gegevens van het Rijks ICT-dashboard zijn er ook als open data. Dit geldt voor informatie over ICT-activiteiten in uitvoering en afgeronde activiteiten. De gegevens zijn in json-formaat.",
+            "IctKosten": "Hier vindt u meer informatie over de kosten, onderverdeeld in kosten voor vernieuwing, onderhoud en beheer van ICT.",
+            "MaatschappelijkeBaten": "Lees hier hoe onze ICT-projecten overheidszaken sneller, makkelijker, goedkoper, duurzamer en betrouwbaarder maken.",
+            "Introductie kengetallen": "<p>Onderstaande cijfers zijn het meest opgevraagd. <a href=\"kengetallen-ict-activiteiten\">Lees er hier meer over</a>.</p>"
+        },
+        "Contact": {
+            "content": "<div><div> <p>Heeft u vragen, opmerkingen of suggesties over deze website? Wij horen graag van u en gebruiken uw feedback om onze diensten verder te verbeteren.</p> <p>&nbsp;</p> </div><h2>Hoe kunt u ons bereiken?</h2> </div> <div> <p>Voor vragen over deze website kunt u ons een mail sturen naar: <a href=\"mailto:Postbus.ICTdashboard@minbzk.nl\">postbus.ICTdashboard@minbzk.nl</a></p> </div> <div> <p>Stel uw inhoudelijke vragen, zoals beleidsvragen over ICT-activiteiten, via het&nbsp;<a href=\"https://www.rijksoverheid.nl/contact/informatie-rijksoverheid/e-mail-sturen\" target=\"_blank\" rel=\"noopener\">contactformulier op rijksoverheid.nl</a>.</p> </div> <div> <p>Wij behandelen uw persoonsgegevens zorgvuldig en gebruiken deze alleen om uw vraag of reactie te verwerken. Uw gegevens worden niet langer bewaard dan noodzakelijk, conform onze <a href=\"/privacy\">privacyverklaring.</a></p> </div> <div> <p>Bij het beantwoorden van e-mails houden wij ons aan de regels voor overheidscommunicatie. Deze regels zorgen ervoor dat we zorgvuldig omgaan met uw bericht.</p> </div>"
+        },
+        "Sitemap": {
+            "content": "<p>De sitemap geeft een overzicht van alle pagina&rsquo;s op deze website. Zo kunt u snel vinden wat u zoekt. Klik op een link in de sitemap om direct naar de gewenste pagina te gaan.</p>"
+        },
+        "Privacyverklaring": {
+            "content": "<div> <div> <p>Uw privacy is belangrijk voor ons. Hier leggen we uit welke gegevens we verzamelen, waarom we dat doen en hoe we goed met uw gegevens omgaan. Deze verklaring geldt voor de verwerking van gegevens door het ministerie van Binnenlandse Zaken en Koninkrijksrelaties op deze website.&nbsp;</p> <h2>Welke gegevens verzamelen wij?&nbsp;</h2> </div> <div> <p>Wij verwerken alleen gegevens die u zelf aan ons geeft, zoals:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Als u een e-mail stuurt.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Als u een formulier op deze website invult.&nbsp;</p> </li> </ul> </div> <div> <h2>Waarom verzamelen wij uw gegevens?&nbsp;</h2> </div> <div> <p>We verzamelen gegevens om:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Uw vragen te beantwoorden.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Uw feedback te verwerken.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Te voldoen aan de wet.&nbsp;</p> </li> </ul> </div> <div> <h2>Hoe beschermen wij uw gegevens?&nbsp;</h2> </div> <div> <p>Wij zorgen ervoor dat uw gegevens veilig zijn. Alleen medewerkers die de gegevens nodig hebben, kunnen erbij.&nbsp;</p> </div> <div> <h2>Hoe lang bewaren wij uw gegevens?&nbsp;</h2> </div> <div> <p>We bewaren uw gegevens alleen zolang het nodig is. Als we uw gegevens niet meer nodig hebben, verwijderen we ze.&nbsp;</p> </div> <div> <p><strong>Uw rechten</strong></p> </div> <div> <p>U heeft het recht om:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Uw gegevens in te zien, aan te passen of te laten verwijderen.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Een klacht in te dienen als u vindt dat wij niet goed omgaan met uw gegevens.&nbsp;</p> </li> </ul> </div> </div> <div> <p>Heeft u vragen over deze verklaring? Neem contact met ons op via&nbsp;<a href=\"mailto:Postbus.ICTdashboard@minbzk.nl\">postbus.ICTdashboard@minbzk.nl</a>.</p> </div>"
+        },
+        "Copyright": {
+            "content": "<div> <div> <h2>Herbruik van inhoud en auteursrechten&nbsp;</h2> </div> <div> <p>De inhoud van deze website mag worden hergebruikt. Dit geldt voor alle teksten, tenzij bij een onderdeel (zoals een document) staat dat er auteursrechtelijke beperkingen zijn. In dat geval is hergebruik niet toegestaan.&nbsp;</p> </div> <div> <h2>Beelden (foto&rsquo;s, video&rsquo;s en infographics)&nbsp;</h2> </div> <div> <p>De regels voor beelden zijn anders:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Op beelden rusten vaak auteursrechten van anderen.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Beelden mogen niet worden hergebruikt, tenzij erbij staat dat dit is toegestaan.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Als u een beeld hergebruikt, moet u &ndash; als vermeld &ndash; de naam van de maker overnemen.&nbsp;</p> </li> </ul> </div> </div> <div> <h2>Let op bij citeren&nbsp;</h2> </div> <div> <p>Bij citeren van inhoud mag niet de indruk worden gewekt dat de Rijksoverheid de inhoud van uw werk automatisch ondersteunt.&nbsp;</p> </div> <div> <h2>Vragen over auteursrechten&nbsp;</h2> </div> <div> <p>Denkt u dat dit bij een beeld niet goed is gegaan? Neem dan contact met ons op via de <a href=\"/contact\">contactpagina</a>.</p> </div>"
+        },
+        "Cookies": {
+            "content": "<div> <div> <p>Wij gebruiken cookies om uw bezoek aan onze website beter te maken. Cookies zijn kleine bestanden die op uw computer, tablet of telefoon worden opgeslagen wanneer u onze website bezoekt.&nbsp;</p> </div> <div> <h2>Waarom gebruiken wij cookies?&nbsp;</h2> </div> <div> <p>Wij gebruiken alleen analytische cookies. Deze cookies helpen ons om:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Te zien hoe bezoekers onze website gebruiken.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>De website makkelijker en beter te maken.&nbsp;</p> </li> </ul> </div> </div> <div> <div> <p>Met deze cookies weten we bijvoorbeeld:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Of u onze website voor de eerste keer bezoekt of al eerder.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Welke pagina&rsquo;s u heeft bekeken.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Vanaf welke website u naar ons bent gekomen.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Of u de website meteen weer heeft verlaten.&nbsp;</p> </li> </ul> </div> <div> <h3>Uw privacy&nbsp;</h3> </div> <div> <p>De cookies die wij gebruiken bevatten geen persoonlijke gegevens. Ze worden niet gebruikt om u te volgen of een profiel van u te maken. Wij gebruiken ook geen cookies van andere websites (third-party cookies).&nbsp;</p> </div> <div> <h2>Meer weten?&nbsp;</h2> </div> <div> <p>Wilt u meer weten over cookies of hoe u deze kunt beheren? Kijk dan op de website <a href=\"https://veiliginternetten.nl/\" target=\"_blank\" rel=\"noopener\">Veilig Internetten</a> of het <a href=\"https://www.ncsc.nl/\" target=\"_blank\" rel=\"noopener\">Nationaal Cyber Security Centrum</a>.&nbsp;</p> </div> <div> <p>Heeft u vragen? Neem contact met ons op via <a href=\"mailto:postbus.ICTdashboard@minbzk.nl\">postbus.ICTdashboard@minbzk.nl</a>.</p> </div> </div>"
+        },
+        "Toegankelijkheid": {
+            "content": "<div> <p>Wij vinden het belangrijk dat iedereen deze website kan gebruiken, ook mensen met een beperking. Daarom voldoen wij aan de toegankelijkheidseisen zoals vastgelegd in de wet. Deze website voldoet aan de richtlijnen van WCAG 2.1, niveau AA.&nbsp;</p> </div> <div> <h2>Wat is een toegankelijke website?&nbsp;</h2> </div> <div> <p>Een toegankelijke website is makkelijker te gebruiken voor iedereen. Overheidswebsites moeten voldoen aan deze toegankelijkheidseisen. Dit staat in het Tijdelijk besluit digitale toegankelijkheid overheid. Overheidswebsites leggen hierover verantwoording af in een toegankelijkheidsverklaring.&nbsp;</p> </div> <div> <h2>Hoe zorgen wij voor toegankelijkheid?&nbsp;</h2> </div> <div> <p>Wij houden onze website toegankelijk door:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p><strong>Toegankelijkheid vanaf het begin:</strong> Toegankelijkheid is een vast onderdeel in het ontwerp, de bouw en het beheer van de website.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p><strong>Regelmatig onderzoek:</strong> Onafhankelijke experts controleren of onze website voldoet aan de toegankelijkheidseisen. Problemen lossen wij duurzaam op.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p><strong>Kennis en training:</strong> Onze medewerkers zijn getraind in digitale toegankelijkheid en passen dit toe in hun werk.&nbsp;</p> </li> </ul> </div> <div> <p>&nbsp;</p> </div> <div> <h2>Toegankelijkheid van deze site&nbsp;&nbsp;</h2> </div> <div> <p>Deze website voldoet aan WCAG 2.1 niveau AA, de Web Content Accesibility Guidelines.&nbsp;</p> </div> <div> <p>Voor meer informatie:&nbsp;</p> </div> <ul> <li><a href=\"https://www.toegankelijkheidsverklaring.nl/register?w=rijksictdashboard\" target=\"_blank\" rel=\"noopener\">Register van Toegankelijkheidsverklaringen van de overheid</a>.</li> <li><a href=\"https://www.toegankelijkheidscertificaat.nl/rijksictdashboard.nl/\" target=\"_blank\" rel=\"noopener\">Toegankelijkheidscertificaat</a></li> </ul> <div> <h2>Heeft u problemen met toegankelijkheid?&nbsp;</h2> </div> <div> <p>Komt u een pagina tegen die niet goed toegankelijk is? Of heeft u vragen of opmerkingen? Neem dan contact met ons op via&nbsp;<a href=\"mailto:postbus.ICTdashboard@minbzk.nl\">postbus.ICTdashboard@minbzk.nl</a>.&nbsp;&nbsp;</p> </div>",
+            "preview": "Een website van de overheid moet voor iedereen toegankelijk zijn. Hier leest u meer over de manier waarop we dat hebben gedaan."
+        },
+        "Kwetsbaarheid melden": {
+            "content": "<div> <p>Wij vinden de veiligheid van onze website belangrijk. Heb je een zwakke plek ontdekt? Meld dit dan bij ons, zodat we het probleem kunnen oplossen.&nbsp;</p> </div> <div> <h2>Wat kun je doen?&nbsp;</h2> </div> <div> <p>Meld de kwetsbaarheid via het Nationaal Cyber Security Centrum (NCSC) en geef voldoende informatie, zoals de URL en een korte omschrijving van het probleem.&nbsp;</p> </div> <div> <p>Houd hierbij rekening met het volgende:&nbsp;</p> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p><strong>Maak geen misbruik</strong> van de kwetsbaarheid, bijvoorbeeld door extra gegevens te downloaden of informatie van anderen te bekijken, aan te passen of te verwijderen.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p><strong>Houd de informatie geheim</strong> totdat het probleem is opgelost.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p><strong>Wis vertrouwelijke gegevens</strong> die je door het lek heeft verkregen.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p><strong>Gebruik geen aanvallen</strong> zoals het versturen van spam, social engineering of DDoS-aanvallen.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Geef ons voldoende informatie, zoals de URL of het IP-adres en een beschrijving van het probleem. Bij ingewikkelde kwetsbaarheden kan meer uitleg nodig zijn.&nbsp;</p> </li> </ul> </div> <div> <h2>Wat doen wij?&nbsp;</h2> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>We behandelen je melding vertrouwelijk en nemen geen juridische stappen als je je aan de regels houdt.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>Binnen <strong>3 werkdagen</strong> krijgt u een reactie met een oplostermijn.&nbsp;</p> </li> </ul> </div> <div> <ul role=\"list\"> <li role=\"listitem\"> <p>U blijft op de hoogte van de voortgang.&nbsp;</p> </li> </ul> </div> <div> <p>&nbsp;</p> </div> <div> <p>Samen zorgen we voor een veilige website. Dank voor uw hulp!&nbsp;</p> </div>"
+        },
+        "Rapportgeschiedenis": {
+            "content": ""
+        },
+        "Open data": {
+            "content": "<p>Alle gegevens van het Rijks ICT-dashboard zijn er ook als open data. Dit geldt voor informatie over ICT-activiteiten in uitvoering en afgeronde activiteiten. De gegevens zijn te downloaden in Excel- en JSON-formaat.</p>\n<p>De gegevens van een specifieke activiteit kunt u ook downloaden. Op de activiteitpagina staat rechtsboven de optie 'Exporteer'. Hiermee downloadt u het CSV-bestand (met komma-gescheiden waarden). Dit bestand is circa 10 kB en kunt u openen met een spreadsheetprogramma, zoals Microsoft Excel of LibreOffice Calc.</p>\n<p>Hieronder kunt u de open data van alle ICT-activiteiten in uitvoering en afgeronde activiteiten downloaden:</p>"
+        },
+        "Over": {
+            "deel1": "<h2>1. Wat is het Rijks ICT-dashboard?</h2>\n<p>Meer inzicht is nodig om goed sturing te kunnen geven aan de informatievoorziening en om transparant te zijn naar parlement en maatschappij. De Tweede Kamer vraagt met enige regelmaat om meer inzicht in kosten, maatschappelijke baten, samenhang, en stand van zaken in de ontwikkeling, het beheer en onderhoud (de levenscyclus) van de ICT binnen de Rijksoverheid. Dit gaat om zowel de I-strategie, de werkagenda Waardengedreven Digitaliseren als de grote ICT-activiteiten.  <br /> <br />Het Rijks ICT-dashboard is een website van de Rijksoverheid. Het dashboard valt onder de verantwoordelijkheid van de minister van Binnenlandse Zaken en Koninkrijksrelaties. </p>\n<h2>2. I-strategie</h2>\n<p>In de I-strategie 2021-2025 staan de gezamenlijke prioriteiten van de Chief Information Officers (CIO’s) van het rijk voor de informatievoorziening. Iedere prioriteit is uitgewerkt in een aantal actiepunten.  <br /> <br />We leven in uitdagende tijden. Digitalisering zorgt voor snelle veranderingen in technische mogelijkheden. Burgers, bedrijven, instellingen en overheid zijn bezig met de digitale transformatie. Digitale middelen zijn inmiddels vitaal voor het functioneren van onze samenleving; de Coronapandemie maakte dat nog eens duidelijk. Innovaties zorgen voor talloze nieuwe kansen, maar ook voor nieuwe bedreigingen. Nederland heeft de ambitie om samen met mede EU-lidstaten innovaties te omarmen en bedreigingen in de kiem te smoren, met onze democratische rechtsstaat als uitgangspunt.  <br /> <br />Tegelijkertijd hebben we als rijksoverheid te maken met erfenissen. Een aantal serieuze problemen in de uitvoering vraagt om ingrijpende maatregelen. </p>\n<h2>3. Grote ICT-activiteiten</h2>\n<p>Op het Rijks ICT-dashboard staat informatie over alle grote ICT-activiteiten van de Rijksoverheid. De ministeries die verantwoordelijk zijn voor deze activiteiten leveren de gegevens aan. <br /> <br />Het dashboard laat de aantallen, kosten en voortgang van de grote ICT-activiteiten zien. Op de startpagina staat een overzicht van alle activiteiten, een grafische presentatie met rijksbrede informatie en trendgegevens en een overzicht van de meest actuele wijzigingen. Zoals nieuwe en aangepaste ICT-activiteiten, of grote en kleine aanpassingen in de activiteitgegevens. Op de activiteitpagina’s staat specifieke informatie over de ICT-activiteiten. </p>\n<p>Grote ICT-activiteiten zijn de activiteiten waarin het ICT-component meer dan €5 miljoen kost tijdens de gehele looptijd van de activiteit. Met de meerjarige ICT-kosten worden de producten, diensten en resultaten van de activiteit gerealiseerd. De ICT-kosten zijn opgenomen in de rijksbegroting, of in de begroting van de publieksrechtelijke zelfstandig bestuursorganen (zbo’s), en worden hierin verantwoord.</p>\n<p>Ieder jaar staat in de Jaarrapportage Bedrijfsvoering Rijk een overzicht van alle in dat jaar actieve activiteiten, met de belangrijkste data en cijfers. Bekijk de <a href=\"https://www.rijksictdashboard.nl/rapportagegeschiedenis\">rapportagegeschiedenis</a>. Er is ook een <a href=\"https://www.rijksictdashboard.nl/open-data\">actueel overzicht van alle grote ICT-activiteiten</a> beschikbaar.</p>",
+            "deel2": "<h2>4. Actualiteit</h2>\n<p>De informatie over de ICT-activiteiten op het Rijks ICT-dashboard werken we regelmatig bij; per ICT-activiteit minimaal één keer per jaar. Ook als de Tweede Kamer over de ICT-activiteit wordt geïnformeerd, worden de gegevens geactualiseerd.</p>\n<h2>5. Wijzigingen binnen de ICT-activiteit</h2>\n<p>Tijdens een ICT-activiteit kunnen belangrijke wijzigingen (‘herijkingen’) plaatsvinden die gevolgen hebben voor de inhoud, de doorlooptijd en de kostenschatting. De reden van deze wijzigingen wordt altijd aan de Tweede Kamer gemeld.</p>\n<p>Een wijziging kan om verschillende redenen noodzakelijk zijn. Denk aan een nieuwe – politieke – eis, of aanpassingen vanwege een uitgevoerde kwaliteitstoets, of een veranderde looptijd van de ICT-activiteit. Meer informatie over de verschillenden redenen en aanpassingen staan op de startpagina.</p>"
+        },
+        "ICT-kosten": {
+            "kostenTotaalBL": "ICT-kosten in miljoenen euro's",
+            "kostenTotaalStelselTitel": "ICT-uitgaven in miljoenen euro's",
+            "kostenTotaalKV": "ICT-uitgaven in miljoenen euro's",
+            "content": "<p>Het Rijks ICT-dashboard geeft inzicht in de kosten van grote ICT-activiteiten. Deze grote ICT-activiteiten zijn niet de enige ICT-kosten van de Rijksoverheid. Daarom geven we op verzoek van de Tweede Kamer ook inzicht in de kosten voor vernieuwing en voor beheer en onderhoud. Met vernieuwing bedoelen we het vernieuwen van de dienstverlening met ICT. Met beheer en onderhoud bedoelen we het onderhouden van bestaande ICT. Met de totale kosten bedoelen we de kosten voor vernieuwing en beheer en onderhoud bij elkaar opgeteld.</p>\n<h2>Groeimodel</h2>\n<p>In 2021 hebben de ministeries voor het eerst samen afspraken gemaakt over de verdeling van de ICT-kosten in kosten voor vernieuwing en kosten voor beheer en onderhoud. Deze afspraken gaan we nog verder uitwerken. Ook willen we van andere overheidsorganisaties de ICT-kosten gaan meenemen in de verdeling. Daarom noemen we het model van verdeling dat we nu hebben een ‘groeimodel’.</p>\n<h2>Inschatting van de verdeling</h2>\n<p>Omdat het model nog moet groeien, maken we nu een inschatting van de verdeling. Dat inschatten is nodig, omdat we nog niet van alle ministeries en organisaties binnen de Rijksoverheid kunnen weten wat de precieze kosten zijn. Het kost tijd om de systemen op te zetten waarin we dit kunnen bijhouden. De ICT-kosten uit de boekhouding zijn daarom volgens rijksbrede afspraken naar eigen inzicht verdeeld.</p>\n<h2>Vergelijken van kosten</h2>\n<p>Op dit moment kunnen we de cijfers van de ministeries nog niet goed met elkaar vergelijken. Dat komt omdat de verdeling nog in ontwikkeling is. In de komende tijd werken we de afspraken tussen de ministeries verder uit zodat we de ICT-kosten per ministerie beter kunnen vergelijken. De volgende stap hierin is de aanpassing van de boekhouding. Dan kunnen we gegevens op dezelfde manier vastleggen en beter analyseren.</p>\n<h2>Twee boekhoudstelsels</h2>\n<p>Binnen de Rijksoverheid maken we gebruik van twee boekhoudstelsels:</p>\n<ol>\n<li>het kas-verplichtingenstelsel</li>\n<li>het baten-lastenstelsel</li>\n</ol>\n<p>Volgens de boekhoudregels kunnen we de ICT-kosten in deze stelsels niet bij elkaar optellen. Vandaar dat we deze stelsels los van elkaar laten zien op deze pagina.</p>",
+            "Deel 1": "<p>Het Rijks ICT-dashboard geeft inzicht in de kosten van grote ICT-activiteiten. Deze grote ICT-activiteiten zijn niet de enige ICT-kosten van de Rijksoverheid. Daarom geven we op verzoek van de Tweede Kamer ook inzicht in de kosten voor vernieuwing en voor beheer en onderhoud. Met vernieuwing bedoelen we het vernieuwen van de dienstverlening met ICT. Met beheer en onderhoud bedoelen we het onderhouden van bestaande ICT. Met de totale kosten bedoelen we de kosten voor vernieuwing en beheer en onderhoud bij elkaar opgeteld.</p>\n<h2>Groeimodel</h2>\n<p>In 2021 hebben de ministeries voor het eerst samen afspraken gemaakt over de verdeling van de ICT-kosten in kosten voor vernieuwing en kosten voor beheer en onderhoud. Deze afspraken gaan we nog verder uitwerken. Ook willen we van andere overheidsorganisaties de ICT-kosten gaan meenemen in de verdeling. Daarom noemen we het model van verdeling dat we nu hebben een ‘groeimodel’.</p>",
+            "Deel 2": "<p>Omdat het model nog moet groeien, maken we nu een inschatting van de verdeling. Dat inschatten is nodig, omdat we nog niet van alle ministeries en organisaties binnen de Rijksoverheid kunnen weten wat de precieze kosten zijn. Het kost tijd om de systemen op te zetten waarin we dit kunnen bijhouden. De ICT-kosten uit de boekhouding zijn daarom volgens rijksbrede afspraken naar eigen inzicht verdeeld.</p>\n<h2>Vergelijken van kosten</h2>\n<p>Op dit moment kunnen we de cijfers van de ministeries nog niet goed met elkaar vergelijken. Dat komt omdat de verdeling nog in ontwikkeling is. In de komende tijd werken we de afspraken tussen de ministeries verder uit zodat we de ICT-kosten per ministerie beter kunnen vergelijken. De volgende stap hierin is de aanpassing van de boekhouding. Dan kunnen we gegevens op dezelfde manier vastleggen en beter analyseren.</p>\n<h2>Twee boekhoudstelsels</h2>\n<p>Binnen de Rijksoverheid maken we gebruik van twee boekhoudstelsels:</p>\n<ol>\n<li>het kas-verplichtingenstelsel</li>\n<li>het baten-lastenstelsel</li>\n</ol>\n<p>Volgens de boekhoudregels kunnen we de ICT-kosten in deze stelsels niet bij elkaar optellen. Vandaar dat we deze stelsels los van elkaar laten zien op deze pagina.</p>"
+        },
+        "Dashboard": {
+            "StatusverdelingTitel": "Status ICT-activiteiten",
+            "ToelichtingTop3ToegevoegdeActiviteiten": "Dit zijn de 3 meest recente ICT-activiteiten die zijn toegevoegd.",
+            "ToelichtingTop3AfgerondeActiviteiten": "Dit zijn de 3 meest recente ICT-activiteiten die zijn afgerond.",
+            "ToelichtingAantalActiviteitenInUitvoering": "Dit zijn alle lopende ICT-activiteiten. Dit zijn activiteiten die worden uitgevoerd of worden geheroriënteerd.",
+            "ToelichtingAantalActiviteitenAfgerond": "Dit zijn alle afgeronde ICT-activiteiten.",
+            "DashboardKopSubtitel": "Filter op ministerie om de gegevens van het aantal ICT-activiteiten, de gemiddelde duur, schatting van de totale kosten en BIT-adviezen voor alleen dat ministerie te zien.",
+            "ToelichtingDoorlooptijd": "Zo lang duurt een ICT-activiteit in uitvoering of heroriëntatie gemiddeld.",
+            "ToelichtingBit": "Het Adviescollege ICT-toetsing bepaalt welke activiteiten ze gaan toetsen. Deze toetsing leidt tot een BIT-advies dat naar de Tweede Kamer wordt gestuurd en is terug te vinden bij de documentatie van de ICT-activiteit.",
+            "ToelichtingSchattingTotaleKosten": "Hier ziet u het totaal van de geschatte kosten van alle lopende ICT-activiteiten.",
+            "SchattingTotaleKostenSubtitel": "Verschil tussen eerste schatting van de totale kosten van ICT-activiteiten in uitvoering en schatting van de totale kosten nu.",
+            "SchattingTotaleKostenTitel": "Schatting totale kosten",
+            "StatusverdelingSubtitel": "Hierin zijn alle ICT-activiteiten op het dashboard meegenomen.",
+            "DashboardKop": "ICT-activiteiten in uitvoering",
+            "DashboardIntro": "Grote ICT-activiteiten zijn de activiteiten waarin het ICT-component meer dan €5 miljoen kost tijdens de gehele looptijd van de activiteit. De volledige definitie is te vinden op: <a href=\"\">Over | Rijks ICT-dashboard<a/>.",
+            "GewijzifdeIctActiviteiten": "Gewijzigde ICT-activiteiten"
+        },
+        "Onderwerpen": {
+            "content": "<p>De taken van de Rijksoverheid zijn verdeeld over verschillende onderwerpen. Binnen ieder onderwerp voeren we grote ICT-activiteiten uit. Kies een onderwerp om alle bijbehorende ICT-activiteiten te zien.</p>",
+            "preview": "De taken van de Rijksoverheid zijn verdeeld over verschillende onderwerpen. Binnen ieder onderwerp voeren we grote ICT-activiteiten uit. Kies een onderwerp om alle bijbehorende ICT-activiteiten te zien."
+        },
+        "Ministeries": {
+            "content": "<p>Ieder ministerie voert ICT-activiteiten uit. Kies een ministerie om alle bijbehorende ICT-activiteiten te zien.</p>"
+        },
+        "ICT-activiteiten overzicht": {
+            "content": "Op deze pagina staan de beschikbare grote ICT-activiteiten van de Rijksoverheid. Zoek op naam of gebruik het filter om de ICT-activiteiten per ministerie, onderwerp of projectfase te zien."
+        },
+        "I-strategie": {
+            "preview": "De I-strategie omvat de afspraken van de Rijksoverheid over de belangrijkste onderwerpen waar aandacht voor nodig is. Hiermee worden de diensten aan burgers en bedrijven verbeterd.",
+            "content": "<p>De CIO's (Chief Information Officers) van elk ministerie hebben samen een plan met 10 thema's bedacht dat helpt om de digitalisering van de rijksoverheid beter te maken. De thema's zijn belangrijk voor alle ministeries. De I-strategie is daarmee een richtlijn om de dienstverlening aan burgers en bedrijven te verbeteren, betere informatievoorziening mogelijk te maken en de transparantie en openheid van de Rijksoverheid te vergroten. Bekijk <a href=\"https://www.rijksoverheid.nl/documenten/beleidsnotas/2021/09/06/i-strategie-rijk-2021-2025\" target=\"_blank\">de volledige I-strategie Rijk 2021-2025</a>.</p>\n<h3>Uitvoering van de I-strategie door de ministeries </h3>\n<div>\n<p>Ieder ministerie heeft op basis van de I-strategie een plan voor meerdere jaren (meerjarenplan) gemaakt voor de ICT-ontwikkelingen en verbeteringen. Dit noemen we de I-plannen. In deze plannen heeft elk ministerie opgeschreven welke ICT-activiteiten voor hun dienstverlening van belang zijn en hoe ze die willen uitvoeren. In veel plannen komen de <a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/\" target=\"_blank\">thema's uit de I-strategie</a> terug. Deze thema’s zijn:</p>\n<ol>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/i-in-het-hart/\" target=\"_blank\">I in het hart</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/digitale-weerbaarheid/\" target=\"_blank\">Digitale weerbaarheid</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/ict-landschap/\" target=\"_blank\">ICT-landschap</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/generieke-voorzieningen/\" target=\"_blank\">Generieke voorzieningen</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/informatiehuishouding/\" target=\"_blank\">Informatiehuishouding</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/data-en-algoritmen/\" target=\"_blank\">Data en algoritmen</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/i-vakmanschap/\" target=\"_blank\">I-vakmanschap</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/transparantie-en-inzicht/\" target=\"_blank\">Transparantie en inzicht</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/i-besturing/\" target=\"_blank\">I-besturing</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/markt-en-innovatie/\" target=\"_blank\">Markt en innovatie</a></li>\n</ol>\n</div>\n<div>\n<p>De context van de I-plannen is vastgelegd in <a href=\"https://www.digitaleoverheid.nl/werkagenda-waardengedreven-digitaliseren/#Versterken-ICT-organisatie-en-systemen-van-het-Rijk-Overzicht\" target=\"_blank\">hoofdstuk 4.3 van de werkagenda van de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties</a>. </p>\n<h3>I-plan per ministerie </h3>\n<p>Lees van <a href=\"https://www.rijksictdashboard.nl/ministeries\">alle ministeries</a> de belangrijkste punten uit hun I-plan of download het I-plan om het helemaal te lezen. </p>\n</div>",
+            "Deel 1": "<p>De CIO's (Chief Information Officers) van elk ministerie hebben samen een plan met 10 thema's bedacht dat helpt om de digitalisering van de rijksoverheid beter te maken. De thema's zijn belangrijk voor alle ministeries. De I-strategie is daarmee een richtlijn om de dienstverlening aan burgers en bedrijven te verbeteren, betere informatievoorziening mogelijk te maken en de transparantie en openheid van de Rijksoverheid te vergroten. Bekijk <a href=\"https://www.rijksoverheid.nl/documenten/beleidsnotas/2021/09/06/i-strategie-rijk-2021-2025\" target=\"_blank\">de volledige I-strategie Rijk 2021-2025</a>.</p>",
+            "Deel 2": "<div>\n<h3>Artikelen over de onderwerpen binnen de I-strategie</h3>\n<p>Ieder ministerie heeft op basis van de I-strategie een plan voor meerdere jaren (meerjarenplan) gemaakt voor de ICT-ontwikkelingen en verbeteringen. Dit noemen we de I-plannen. In deze plannen heeft elk ministerie opgeschreven welke ICT-activiteiten voor hun dienstverlening van belang zijn en hoe ze die willen uitvoeren. In veel plannen komen de <a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/\" target=\"_blank\">thema's uit de I-strategie</a> terug. Deze thema’s zijn:</p>\n<ol>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/i-in-het-hart/\" target=\"_blank\">I in het hart</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/digitale-weerbaarheid/\" target=\"_blank\">Digitale weerbaarheid</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/ict-landschap/\" target=\"_blank\">ICT-landschap</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/generieke-voorzieningen/\" target=\"_blank\">Generieke voorzieningen</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/informatiehuishouding/\" target=\"_blank\">Informatiehuishouding</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/data-en-algoritmen/\" target=\"_blank\">Data en algoritmen</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/i-vakmanschap/\" target=\"_blank\">I-vakmanschap</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/transparantie-en-inzicht/\" target=\"_blank\">Transparantie en inzicht</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/i-besturing/\" target=\"_blank\">I-besturing</a></li>\n<li><a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/markt-en-innovatie/\" target=\"_blank\">Markt en innovatie</a></li>\n</ol>\n</div>\n<div>\n<p>De context van de I-plannen is vastgelegd in <a href=\"https://www.digitaleoverheid.nl/werkagenda-waardengedreven-digitaliseren/#Versterken-ICT-organisatie-en-systemen-van-het-Rijk-Overzicht\" target=\"_blank\">hoofdstuk 4.3 van de werkagenda van de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties</a>. </p>\n<h3>I-plan per ministerie </h3>\n<p>Lees van <a href=\"https://www.rijksictdashboard.nl/ministeries\">alle ministeries</a> de belangrijkste punten uit hun I-plan of download het I-plan om het helemaal te lezen. </p>\n</div>"
+        },
+        "ICT-medewerkers": {
+            "preview": "Binnen de Rijksoverheid werken we met eenduidige kwaliteitenprofielen voor professionals in de informatievoorziening. Hiermee komen we er achter welke professionals we al in huis hebben en welke we nog missen om onze doelen te halen.",
+            "Deel 1": "<p>Voor alle verbeteringen die de Rijksoverheid wil doorvoeren op het gebied van ICT (<a href=\"https://www.rijksictdashboard.nl/i-strategie\">I-strategie</a>) zijn veel professionals in de informatievoorziening (IV-professionals) nodig. Binnen de overheid willen we daarom graag weten welke IV-professionals we al hebben, wat ze precies kunnen en weten en welk personeel we nog missen om onze doelen te halen. Daarom werken we met het Kwaliteitsraamwerk Informatievoorziening, in het kort het KWIV. </p>",
+            "Deel 2": "<p>Binnen de Rijksoverheid hebben we veel functies op het gebied van informatievoorziening. We hadden alleen nog geen vaste manier om de vereisten per functie vast te leggen. Daardoor konden we de kwaliteiten van IV-professionals niet altijd met elkaar vergelijken. Ook was het lastig om inzicht te krijgen in hoe veel mensen we met een bepaald profiel hadden. Dat is wel nodig, want dan weten we precies waar welke profielen goed op aansluiten op wat we nodig hebben. Om onze IV-organisatie verder te professionaliseren hebben we daarom <a href=\"https://www.functiegebouwrijksoverheid.nl/kwaliteitsraamwerken/kwaliteitsraamwerk-informatievoorziening\" target=\"_blank\">het KWIV</a> ontwikkeld. Elk ministerie, behalve Defensie, gebruikt dit om IV-professionals in kaart te brengen. </p>\n<h3>Wat levert het KWIV op? </h3>\n<div>\n<p>Met het KWIV kunnen we een aanvulling op functiebeschrijvingen maken specifiek gericht op IV-kennis en vaardigheden. Dit KWIV-profiel laat goed zien wat een IV-professional precies moet kunnen en weten. Dit is fijn, omdat we daardoor beter weten welke kennis we in huis hebben en wat er mist. Zo kunnen we sneller en gerichter nieuwe IV-professionals aannemen.  </p>\n</div>\n<div>\n<p>Ook voor onze medewerkers is het fijn. Doordat ze een duidelijk KWIV-profiel hebben, zien ze wat er nodig is om binnen het profiel door te groeien of naar een ander profiel over te stappen. Door dit inzicht in hun kennis en ervaring, weet iemand precies of de overstap naar een ander profiel haalbaar is. Zo houden we mensen makkelijker binnen in onze organisatie en kunnen we sneller en beter werken aan de verbeteringen van de dienstverlening van de Rijksoverheid. </p>\n<h3>Alle informatie over het KWIV online </h3>\n<div>\n<div>\n<p>Er staat veel informatie over het KWIV online. In onderstaande lijst staan links waar je meer kunt lezen. Zodra we genoeg KWIV-data hebben, publiceren we deze op het Rijks ICT-dashboard. </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p><a href=\"https://www.functiegebouwrijksoverheid.nl/kwaliteitsraamwerken/kwaliteitsraamwerk-informatievoorziening/het-kwiv\" target=\"_blank\">Functiegebouw rijksoverheid</a>: Alle informatie over KWIV, zoals een brochure, instructievideo's, factsheets en de toelichtingen. </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p><a href=\"https://www.rijksorganisatieodi.nl/kwiv\" target=\"_blank\">Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie</a>: voor artikelen, verwijzingen en documenten over KWIV.  </p>\n</li>\n</ul>\n</div>\n</div>\n</div>",
+            "content": "<p>Voor alle verbeteringen die de Rijksoverheid wil doorvoeren op het gebied van ICT (<a href=\"https://www.rijksictdashboard.nl/i-strategie\">I-strategie</a>) zijn veel professionals in de informatievoorziening (IV-professionals) nodig. Binnen de overheid willen we daarom graag weten welke IV-professionals we al hebben, wat ze precies kunnen en weten en welk personeel we nog missen om onze doelen te halen. Daarom werken we met het Kwaliteitsraamwerk Informatievoorziening, in het kort het KWIV. </p>\n<h3>Waarom is KWIV nodig? </h3>\n<p>Binnen de Rijksoverheid hebben we veel functies op het gebied van informatievoorziening. We hadden alleen nog geen vaste manier om de vereisten per functie vast te leggen. Daardoor konden we de kwaliteiten van IV-professionals niet altijd met elkaar vergelijken. Ook was het lastig om inzicht te krijgen in hoe veel mensen we met een bepaald profiel hadden. Dat is wel nodig, want dan weten we precies waar welke profielen goed op aansluiten op wat we nodig hebben. Om onze IV-organisatie verder te professionaliseren hebben we daarom <a href=\"https://www.functiegebouwrijksoverheid.nl/kwaliteitsraamwerken/kwaliteitsraamwerk-informatievoorziening\" target=\"_blank\">het KWIV</a> ontwikkeld. Elk ministerie, behalve Defensie, gebruikt dit om IV-professionals in kaart te brengen. </p>\n<h3>Wat levert het KWIV op? </h3>\n<div>\n<p>Met het KWIV kunnen we een aanvulling op functiebeschrijvingen maken specifiek gericht op IV-kennis en vaardigheden. Dit KWIV-profiel laat goed zien wat een IV-professional precies moet kunnen en weten. Dit is fijn, omdat we daardoor beter weten welke kennis we in huis hebben en wat er mist. Zo kunnen we sneller en gerichter nieuwe IV-professionals aannemen.  </p>\n</div>\n<div>\n<p>Ook voor onze medewerkers is het fijn. Doordat ze een duidelijk KWIV-profiel hebben, zien ze wat er nodig is om binnen het profiel door te groeien of naar een ander profiel over te stappen. Door dit inzicht in hun kennis en ervaring, weet iemand precies of de overstap naar een ander profiel haalbaar is. Zo houden we mensen makkelijker binnen in onze organisatie en kunnen we sneller en beter werken aan de verbeteringen van de dienstverlening van de Rijksoverheid. </p>\n<h3>Alle informatie over het KWIV online </h3>\n<div>\n<div>\n<p>Er staat veel informatie over het KWIV online. In onderstaande lijst staan links waar je meer kunt lezen. Zodra we genoeg KWIV-data hebben, publiceren we deze op het Rijks ICT-dashboard. </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p><a href=\"https://www.functiegebouwrijksoverheid.nl/kwaliteitsraamwerken/kwaliteitsraamwerk-informatievoorziening/het-kwiv\" target=\"_blank\">Functiegebouw rijksoverheid</a>: Alle informatie over KWIV, zoals een brochure, instructievideo's, factsheets en de toelichtingen. </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p><a href=\"https://www.rijksorganisatieodi.nl/kwiv\" target=\"_blank\">Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie</a>: voor artikelen, verwijzingen en documenten over KWIV.  </p>\n</li>\n</ul>\n</div>\n</div>\n</div>"
+        },
+        "Duurzaamheid": {
+            "preview": "Lees hier over onze projecten waarin we ons computer- en datagebruik onderzoeken en veranderen, om de invloed op mens en milieu te verkleinen.",
+            "content_deel2": "<div>\n<h3>Handige links </h3>\n</div>\n<div>\n<p><a href=\"https://www.rvo.nl/onderwerpen/r-ladder\" target=\"_blank\">R-ladder</a>: een model dat kan helpen bij het maken van bewuste keuzes als het gaat om aankoop van bijvoorbeeld een nieuw product. Het bevat meerdere stappen die je helpen na te denken of je het nieuwe product wel echt nodig hebt, welke dan het meest duurzaam is en wat je kunt doen met je oude product. </p>\n</div>\n<div>\n<p><a href=\"https://www.denkdoeduurzaam.nl/\" target=\"_blank\">DenkDoeDuurzaam</a>: alle landen in de wereld hebben met elkaar klimaatdoelen afgesproken. Ook de Rijksoverheid doet actief mee aan het halen van die doelen, net zoals we dat vragen van alle burgers en bedrijven in Nederland. DenkDoeDuurzaam is een team van de Rijksoverheid dat de klimaatdoelen omzet naar projecten binnen alle ministeries om iedereen die werkt voor de overheid te helpen in de overgang naar duurzamer werken.   </p>\n</div>",
+            "content": "<p>Als Rijksoverheid voeren we grote ICT-activiteiten uit waarmee we de dienstverlening en processen van de Rijksoverheid (<a href=\"https://www.rijksictdashboard.nl/i-strategie\">I-strategie</a>) verbeteren. Daarnaast hebben we onszelf grote doelen gesteld om duurzamer te gaan werken. Daarmee bedoelen we werken op manieren die beter zijn voor mens, natuur en milieu. Dit doen we op allerlei gebieden en binnen alle ministeries. Dus ook met onze ICT-voorzieningen. Want wie digitaal werkt, heeft ook (digitaal) afval, stoot CO2 uit en gebruikt energie. </p>\n<h2>Activiteiten rondom duurzame ICT</h2>\n<div>\n<p>Om onze ICT mens- en milieuvriendelijker te maken kijken we van begin tot eind naar wat er beter kan. Dat begint met welke apparaten we kopen, gaat door in hoe we omgaan met het opslaan van documenten en eindigt bij wat er met onze spullen gebeurt nadat wij er klaar mee zijn. </p>\n</div>\n<div>\n<div>\n<p>Voor de toekomst vinden we het belangrijk dat we: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>zo duurzaam mogelijk inkopen </p>\n</li>\n<li role=\"listitem\">\n<p>zo lang mogelijk met apparaten en systemen doen  </p>\n</li>\n<li role=\"listitem\">\n<p>slim omgaan met opslag van data </p>\n</li>\n<li role=\"listitem\">\n<p>waar mogelijk apparaten een tweede leven geven </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>alle medewerkers van de Rijksoverheid helpen duurzamer te werken </p>\n</li>\n</ul>\n</div>\n<div>\n<p>Hiervoor voeren we op dit moment onderstaande projecten uit. </p>\n<h3>Gegevens over duurzaamheid op het Rijks ICT-dashboard </h3>\n<div>\n<p>Meten is weten, dus verzamelen we allerlei gegevens over ICT-gebruik binnen de overheid. Bijvoorbeeld hoeveel mobiele toestellen (devices) er per ministerie zijn, hoe lang die devices meegaan en hoe veel onderdelen gerecycled kunnen worden. </p>\n</div>\n<div>\n<p>Op basis van deze gegevens kunnen we advies geven aan inkopers over welke devices in de praktijk het langst meegaan. Daarnaast kunnen we ook afspraken maken met leveranciers over technische ondersteuning. Dit onderzoek geeft ons ook inzicht in de gevolgen van de ICT-middelen die we kopen en hoe we die gebruiken. </p>\n<div>\n<h3>Verminderen dubbele devices </h3>\n</div>\n<div>\n<div>\n<p>Er zijn veel medewerkers die meerdere devices hebben. Wanneer deze niet (meer) gebruikt worden, is dat ontzettend zonde. Deze devices kunnen vaak heel goed een tweede leven krijgen of gerecycled worden. Dit project richt zich op het onderzoek naar: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>opsporing van dubbele devices </p>\n</li>\n<li role=\"listitem\">\n<p>veilig wissen van gevoelige informatie </p>\n</li>\n<li role=\"listitem\">\n<p>mogelijkheid tot doorverkopen van de devices als tweedehands (refurbished) toestel </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<h3>Verminderen dataopslag </h3>\n</div>\n<div>\n<p>Alles wat je ergens opslaat kost energie. Of dat nu een e-mail is, een presentatie of een map met werkbestanden. Dat komt omdat voor de opslag van al deze digitale documenten een datacenter nodig is. Dit is een gebouw waar allerlei apparaten en systemen 24 uur per dag aan staan om deze informatie te bewaren en te verwerken. Hoe meer je bewaart, hoe meer ruimte dat in deze opslag kost. Bovendien verbruikt elk apparaat dat hiervoor nodig is stroom. Dat heeft grote invloed op de CO2-uitstoot van het datacentrum.  </p>\n</div>\n<div>\n<h3>Bewustwording van gedrag </h3>\n</div>\n<div>\n<p>Kortom: hoe minder data we produceren en opslaan, hoe beter. Daarom maken we medewerkers van de Rijksoverheid bewust van hun digitale gedrag. Het bespaart bijvoorbeeld CO2-uitstoot als je wekelijks overbodige e-mails verwijdert. Nog beter is het om virtueel samen te werken in een document met versiebeheer. Dan hoef je er niet meer over te mailen en verschillende versies op te slaan. Dat betekent minder opslagruimte en dus minder apparaten (hardware) in het datacenter. Hiermee besparen we weer in de aankoop. </p>\n</div>\n<div>\n<h3>Efficiënt opslaan </h3>\n</div>\n<div>\n<p>Daarnaast onderzoeken we manieren om meer data op minder ruimte op te slaan, zodat we de beschikbare ruimte beter benutten. Ook kijken we of we data die dubbel is opgeslagen kunnen vinden, zodat we wat er dubbel is weg kunnen doen. Zo verkleinen we het effect van data op het milieu. </p>\n</div>\n<div>\n<h3>Innovatie van datacentra </h3>\n</div>\n<div>\n<p>Als Rijksoverheid onderzoeken we op welke manieren we onze datacenters beter kunnen inrichten. Dit doen we om zodat we minder energie nodig hebben en met materialen werken die minder belastend zijn voor mens en milieu.  </p>\n</div>\n<div>\n<p>Nieuwe technieken maken het bijvoorbeeld mogelijk om bestaande apparatuur zo efficiënt mogelijk in te zetten, bijvoorbeeld door het virtualiseren van servers. Ook verlagen we waar mogelijk de belasting (CPU-load) van servers. Daarmee gaat het energieverbruik omlaag. Tot slot onderzoeken we vernieuwingen in de manier van koeling van de apparaten en of we de gegenereerde warmte kunnen gebruiken, bijvoorbeeld in warmtenetten. </p>\n</div>\n</div>\n</div>\n</div>",
+            "Verminderen dubbele devices": "<div>\n<p>Er zijn veel medewerkers die meerdere devices hebben. Wanneer deze niet (meer) gebruikt worden, is dat ontzettend zonde. Deze devices kunnen vaak heel goed een tweede leven krijgen of gerecycled worden. Dit project richt zich op het onderzoek naar: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>opsporing van dubbele devices </p>\n</li>\n<li role=\"listitem\">\n<p>veilig wissen van gevoelige informatie </p>\n</li>\n<li role=\"listitem\">\n<p>mogelijkheid tot doorverkopen van de devices als tweedehands (refurbished) toestel </p>\n</li>\n</ul>\n</div>",
+            "Verminderen dataopslag": "<p>Alles wat je ergens opslaat kost energie. Of dat nu een e-mail is, een presentatie of een map met werkbestanden. Dat komt omdat voor de opslag van al deze digitale documenten een datacenter nodig is. Dit is een gebouw waar allerlei apparaten en systemen 24 uur per dag aan staan om deze informatie te bewaren en te verwerken. Hoe meer je bewaart, hoe meer ruimte dat in deze opslag kost. Bovendien verbruikt elk apparaat dat hiervoor nodig is stroom. Dat heeft grote invloed op de CO2-uitstoot van het datacentrum.  </p>",
+            "Bewustwording van gedrag": "<p>Kortom: hoe minder data we produceren en opslaan, hoe beter. Daarom maken we medewerkers van de Rijksoverheid bewust van hun digitale gedrag. Het bespaart bijvoorbeeld CO2-uitstoot als je wekelijks overbodige e-mails verwijdert. Nog beter is het om virtueel samen te werken in een document met versiebeheer. Dan hoef je er niet meer over te mailen en verschillende versies op te slaan. Dat betekent minder opslagruimte en dus minder apparaten (hardware) in het datacenter. Hiermee besparen we weer in de aankoop. </p>",
+            "Efficiënt opslaan": "<p>Daarnaast onderzoeken we manieren om meer data op minder ruimte op te slaan, zodat we de beschikbare ruimte beter benutten. Ook kijken we of we data die dubbel is opgeslagen kunnen vinden, zodat we wat er dubbel is weg kunnen doen. Zo verkleinen we het effect van data op het milieu. </p>",
+            "Content zonder projecten": "<p>Als Rijksoverheid voeren we grote ICT-activiteiten uit waarmee we de dienstverlening en processen van de Rijksoverheid (<a href=\"https://www.rijksictdashboard.nl/i-strategie\">I-strategie</a>) verbeteren. Daarnaast hebben we onszelf grote doelen gesteld om duurzamer te gaan werken. Daarmee bedoelen we werken op manieren die beter zijn voor mens, natuur en milieu. Dit doen we op allerlei gebieden en binnen alle ministeries. Dus ook met onze ICT-voorzieningen. Want wie digitaal werkt, heeft ook (digitaal) afval, stoot CO2 uit en gebruikt energie. </p>\n<h2>Activiteiten rondom duurzame ICT</h2>\n<div>\n<p>Om onze ICT mens- en milieuvriendelijker te maken kijken we van begin tot eind naar wat er beter kan. Dat begint met welke apparaten we kopen, gaat door in hoe we omgaan met het opslaan van documenten en eindigt bij wat er met onze spullen gebeurt nadat wij er klaar mee zijn. </p>\n</div>\n<div>\n<div>\n<p>Voor de toekomst vinden we het belangrijk dat we: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>zo duurzaam mogelijk inkopen </p>\n</li>\n<li role=\"listitem\">\n<p>zo lang mogelijk met apparaten en systemen doen  </p>\n</li>\n<li role=\"listitem\">\n<p>slim omgaan met opslag van data </p>\n</li>\n<li role=\"listitem\">\n<p>waar mogelijk apparaten een tweede leven geven </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>alle medewerkers van de Rijksoverheid helpen duurzamer te werken </p>\n</li>\n</ul>\n</div>\n<div>\n<p>Hiervoor voeren we op dit moment onderstaande projecten uit. </p>\n<h3>Gegevens over duurzaamheid op het Rijks ICT-dashboard </h3>\n<div>\n<p>Meten is weten, dus verzamelen we allerlei gegevens over ICT-gebruik binnen de overheid. Bijvoorbeeld hoeveel mobiele toestellen (devices) er per ministerie zijn, hoe lang die devices meegaan en hoe veel onderdelen gerecycled kunnen worden. </p>\n</div>\n<div>\n<p>Op basis van deze gegevens kunnen we advies geven aan inkopers over welke devices in de praktijk het langst meegaan. Daarnaast kunnen we ook afspraken maken met leveranciers over technische ondersteuning. Dit onderzoek geeft ons ook inzicht in de gevolgen van de ICT-middelen die we kopen en hoe we die gebruiken. </p>\n<div> </div>\n</div>\n</div>\n</div>",
+            "Innovatie van datacentra": "<div>\n<p>Als Rijksoverheid onderzoeken we op welke manieren we onze datacenters beter kunnen inrichten. Dit doen we om zodat we minder energie nodig hebben en met materialen werken die minder belastend zijn voor mens en milieu.  </p>\n</div>\n<div>\n<p>Nieuwe technieken maken het bijvoorbeeld mogelijk om bestaande apparatuur zo efficiënt mogelijk in te zetten, bijvoorbeeld door het virtualiseren van servers. Ook verlagen we waar mogelijk de belasting (CPU-load) van servers. Daarmee gaat het energieverbruik omlaag. Tot slot onderzoeken we vernieuwingen in de manier van koeling van de apparaten en of we de gegenereerde warmte kunnen gebruiken, bijvoorbeeld in warmtenetten. </p>\n</div>"
+        },
+        "I-plannen": {
+            "DEF": "<div>\n<p>Het I-plan (2023-2026) van het ministerie van Defensie geeft inzicht in de belangrijkste ontwikkelingen en plannen op het gebied van informatietechnologie (IT) en digitalisering.</p>\n</div>\n<div>\n<p>Defensie moet Nederland veilig houden, maar fysieke en digitale dreigingen nemen steeds verder toe. Om onze grondwettelijke taken effectief te kunnen blijven uitvoeren, moeten we ons blijven aanpassen.  </p>\n</div>\n<div>\n<h2>De belangrijkste punten uit het I-plan</h2>\n</div>\n<div>\n<p>Hieronder geven we in het kort de belangrijkste thema’s weer. Meer weten? Download het volledige I-plan onderaan deze pagina.   </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Digitale transformatie <br />Defensie streeft naar een informatiegestuurde en technologisch hoogwaardige krijgsmacht en dat kan niet zonder IT. De IT die relevant is voor Defensie zal zich de komende jaren snel blijven ontwikkelen. Defensie heeft de keuze gemaakt voor een ambitieuze versnelling van deze digitale transformatie. Denk bijvoorbeeld aan investeringen binnen innovatie, modernisering van IT en cybersecurity.  </p>\n</li>\n<li role=\"listitem\">\n<p>Informatie Gestuurd Optreden (IGO) <br />Defensie wil informatie slimmer verwerken én het besluitvormingsproces sneller doorlopen. Dat kan alleen als eenheden beter in staat zijn informatie uit te wisselen. Ook denkt Defensie na over informatie als wapen, door bijvoorbeeld manipulatie van informatie in vijandelijke systemen en misleiding.  </p>\n</li>\n<li role=\"listitem\">\n<p>Versterken continuïteit IT <br />De IT-infrastructuur van Defensie moet verder gemoderniseerd worden. Daarnaast worden onder andere de informatiehuishouding verbeterd en de informatieverstrekking aangepast, beide in het kader van transparantie en eigen bedrijfsvoering.  </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Data science &amp; artificial intelligence <br />Defensie heeft te maken met een grote verschuiving van traditionele naar hoogtechnologische oorlogsvoering. Defensie investeert in de integratie van data science en kunstmatige intelligentie (AI) in al haar processen en zoekt de samenwerking met bondgenoten, kennisinstellingen en industrie. Dat dwingt ons gezamenlijk te werken aan regulering en standaarden die voldoen aan onze ethische en juridische standpunten.  </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Cyber en digitale weerbaarheid <br />Defensie werkt gestaag voort aan het verbeteren van de cyber readiness, ofwel het herkennen, inschatten en voorkomen. In deze ontwikkeling staat het verder uitbouwen én versterken van het interne netwerk van operatiecentra centraal. Een uitbreiding van interne, nationale en internationale oefeningen moet de veerkracht van dit netwerk continu testen.</p>\n</li>\n<li role=\"listitem\">\n<p>Interoperabiliteit  <br />Defensie moet in staat zijn op technisch vlak samen te werken met bijvoorbeeld bondgenoten of kennisinstellingen. Daartoe investeert Defensie in IT en communicatiemiddelen. We onderzoeken momenteel de uitdagingen op het gebied van frequentiemanagement. Ook worden hoge eisen gesteld aan de cyberweerbaarheid en informatie-uitwisseling tijdens crises.  </p>\n</li>\n<li role=\"listitem\">\n<p>Wendbare organisaties  <br />De komende jaren investeert Defensie in technologie en werkwijzen die het werk van haar medewerkers veiliger maken. Het doel is om onze medewerkers van Defensie in staat te stellen zich te concentreren op die taken waar menselijke interactie echt onvervangbaar is. </p>\n</li>\n</ul>\n</div>\n<div>\n<p><a href=\"https://open.overheid.nl/documenten/76e73842-bc61-43b7-96a7-b6177f668db7/file\" target=\"_blank\">Download hier het volledige I-plan.</a></p>\n</div>",
+            "BZK": "<div>\n<div>\n<div>\n<div>\n<p>Het I-plan van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) bevat een overzicht van de opgaven van BZK en van de doelen en plannen om daar met informatie en technologie aan bij te dragen voor de periode van 2022-2025. </p>\n</div>\n<div>\n<h2>De belangrijkste punten uit het I-plan  </h2>\n</div>\n<div>\n<p>Hieronder geven we in het kort de belangrijkste thema’s weer. Meer weten? Download het volledige I-plan onderaan deze pagina.   </p>\n</div>\n<div>\n<p>De maatschappelijke opgaven van BZK zijn: een waardengedreven digitale samenleving, een sterke democratie en een goed functionerend bestuur, duurzaam wonen en een evenwichtige verdeling van de ruimte, een grenzeloos samenwerkende overheid en een Koninkrijk met wederzijdse betrokkenheid.  </p>\n</div>\n<div>\n<p>Om aan deze opgaven te werken hebben we deze doelen op het gebied van digitalisering:  </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Een betrouwbare en moderne basis voor identiteit, regie op gegevens en dienstverlening. </p>\n</li>\n<li role=\"listitem\">\n<p>Verankering van vrijheden, grondrechten en verkiezingen in een technologisch uitdagend klimaat.  </p>\n</li>\n<li role=\"listitem\">\n<p>Informatie en technologie voor een open en goed geïnformeerd publiek debat en bestuur. </p>\n</li>\n<li role=\"listitem\">\n<p>Informatie en technologie voor een integrale en intelligente aanpak van ruimtelijke opgaven. </p>\n</li>\n<li role=\"listitem\">\n<p>Een moderne werkomgeving waarin rijksambtenaren open, grenzeloos, datagedreven en hybride werken en samenwerken. </p>\n</li>\n<li role=\"listitem\">\n<p>Versterken van de digitale samenleving in het Caribisch deel van het Koninkrijk. </p>\n</li>\n</ul>\n</div>\n<div>\n<p>Om deze doelen te kunnen realiseren, moet het ministerie van BZK zélf uitgroeien tot een professionele IT-organisatie. De onderdelen van het ministerie werken daaraan met een gezamenlijke I-strategie: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>I en de Bedoeling <br />Het ministerie wil vanuit de maatschappelijke opgaven (‘de bedoeling’), in samenhang en toekomstgericht sturen op programma’s, projecten en innovaties. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Wendbaar <br />Hergebruik en versimpeling van processen en ICT maken zaken gemakkelijker en we bewegen sneller mee met wat technologie te bieden heeft en wat de samenleving nodig heeft. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>I-vakmanschap <br />We werken steviger samen aan arbeidsmarktcommunicatie en werving, selectie en ontwikkeling van IT’ers, maar ook zorgen we ervoor dat beschikbare IT’ers goed tot hun recht komen. Er is ook aandacht voor de ‘digitale fitheid’ van niet-IT’ers. </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Op orde <br />We houden de basis op orde. We sturen op informatiebeveiliging, privacy, informatiehuishouding en toegankelijkheid van BZK-websites. We maken heldere afspraken binnen een BZK-breed CIO-stelsel (CIO staat voor Chief Information Officer) waarin alle wet- en regelgeving en kaders op het gebied van informatie en technologie zijn belegd. </p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<div>\n<div><a href=\"https://open.overheid.nl/documenten/679f6dde-7cf5-494a-bf44-bf897008f646/file\" target=\"_blank\">Download hier het volledige I-plan.</a></div>\n</div>",
+            "FIN": "<div>\n<div>\n<p>Er ligt een belangrijke opgave in het verbeteren van de dienstverlening naar burgers, bedrijven en intermediairs. Digitalisering speelt daarin een belangrijke rol. We moeten onze data- en informatiehuishouding op orde hebben, met aandacht voor privacy, informatiebeveiliging, normen en waarden. Het gaat niet alleen om continuïteit van onze dienstverlening, maar ook om optimalisatie en vernieuwing. We maken onze digitale infrastructuur klaar voor de toekomst. </p>\n</div>\n<div>\n<p>Alle onderdelen van het ministerie van Financiën (Belastingdienst, Dienst Toeslagen, Douane en het beleidsdepartement Financiën) werken aan dezelfde doelen. Deze doelen hebben samenhang, en sluiten aan op de I-strategie van het Rijk en de Werkagenda Waardengedreven Digitaliseren. </p>\n</div>\n<div>\n<h2>De belangrijkste punten uit het I-plan </h2>\n<p>Download het I-plan om alles te lezen. De belangrijkste punten uit het I-plan van het ministerie van Financiën zijn: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Informatie op orde <br />Een goed functionerende en betrouwbare overheid gaat zorgvuldig, verantwoord en transparant om met de gegevens van en over burgers en bedrijven. Er loopt een actieplan om privacy beter te organiseren en ervoor te zorgen dat alle organisatieonderdelen blijvend voldoen aan de AVG en de Wet politiegegevens (Wpg).  </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Transformatie dienstverlening <br />Begrijpelijkheid, dienstverlening via één loket en een proactieve houding zijn verbeterpunten bij de dienstverlening aan burgers en ondernemers. We werken aan meer maatwerk in onze dienstverlening, via begrijpelijke taal, eenvoudige(re) procedures en continue verbetering door het inbouwen van feedback. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Datagedreven werken <br />Financiën wil met behulp van data beter inspelen op de behoeften van burgers, instellingen en bedrijven. Ook willen we sneller en efficiënter tot inzichten komen die bijdragen aan besluitvorming.  </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Modernisering ICT-landschap <br />Voor vrijwel al ons werk en onze ambities zijn passende ICT-voorzieningen nodig. Dat geldt voor onder andere de interactie met burgers en bedrijven en voor de verwerking van gegevens. Op dit moment is de vraag groter dan de beschikbare ICT-capaciteit. Daarom vervangen we verouderde ICT-systemen. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Versterken ICT-personeel <br />Het is lastig om het juiste personeel met actuele ICT-kennis en -kunde te krijgen en te behouden. Daarom investeren we in de ontwikkeling van de vaardigheden van het zittende personeel en richten we ons bij de werving van nieuw personeel vooral op nieuwe toetreders op de arbeidsmarkt. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Digitale weerbaarheid <br />We willen veilige digitale kanalen voor burgers, bedrijven en medewerkers. Het Cyber Security Beeld Nederland van 3 juli 2023 laat zien dat er acute en continue dreiging is, door andere staten en criminele organisaties. Het gaat bijvoorbeeld om diefstal van vertrouwelijke gegevens. Dit soort incidenten heeft ernstige gevolgen, en schaadt het vertrouwen in de overheid. Daarom moet de digitale weerbaarheid voortdurend versterkt worden. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul>\n<li>Doorontwikkelen werkomgeving <br />We maken de informatievoorziening duurzamer, bijvoorbeeld door gebruik te maken van gemeenschappelijke voorzieningen als het overheidsdatacenter (ODC) en hybride werken te stimuleren. Daardoor vermindert woon-werkverkeer en gaan we slimmer met kantoorruimte om. Deze manier van werken vraagt wel om de doorontwikkeling van werkplekken, rekening houdend met veiligheidsrisico’s.</li>\n</ul>\n<p><a href=\"https://open.overheid.nl/documenten/06fbac78-f68e-4340-b4e0-57f302dd2782/file\" target=\"_blank\">Download hier het volledige I-plan.</a></p>\n</div>\n</div>\n<div> </div>",
+            "JENV": "<div>\n<p>Met het (meerjarig) departementaal informatieplan maakt het ministerie van Justitie en Veiligheid de verbinding tussen de belangrijkste beleidsprioriteiten met een IV-component en de acht thema’s uit de i-Strategie. </p>\n</div>\n<div>\n<p>Het informatieplan heeft vier elementen. Als eerste een selectie van de belangrijkste beleidsprioriteiten met een IV-component, aangevuld met de meest wezenlijke internationale ontwikkelingen. Daarna volgt de terug- en vooruitblik op de i-Strategiethema’s - met daar waar van toepassing de verbindingen met Werkagenda Waardengedreven Digitalisering en de I-strategie Rijk. </p>\n</div>\n<div>\n<p>Het slothoofdstuk geeft de grootste risico’s en randvoorwaarden die op dit moment spelen; niet alleen voor de i-Strategie, maar JenV-breed voor onze hele IV-opgave. Denk aan het absorptievermogen van onze organisaties (we worden overvraagd en zullen dus moeten kiezen), de overspannen arbeidsmarkt (het boeien en binden van kennis en capaciteit) en een slimme formule voor stabiele financiering voor het toekomstvast maken en houden van ons IV-landschap. </p>\n</div>\n<div>\n<p><a href=\"https://open.overheid.nl/documenten/dpc-d10bf87dd2f63371b6e1e63d789b0d94910bb7c0/pdf\" target=\"_blank\">Download het volledige Departementaal Informatieplan 2024 JenV vanaf Overheid.nl. </a></p>\n</div>",
+            "OCW": "<div>\n<p>Het I-plan (2023-2028) van het ministerie van Onderwijs, Cultuur en Wetenschap geeft inzicht in de belangrijkste ontwikkelingen en plannen op het gebied van ICT en digitalisering en de opgave voor het ministerie. </p>\n</div>\n<div>\n<h2>De belangrijkste punten uit het I-plan </h2>\n</div>\n<div>\n<p>Hieronder worden de doelen van het I-plan besproken. Voor het realiseren van deze doelen is samenwerking nodig. OCW gebruikt het I-plan om deze samenwerking te versterken. Meer weten? Download het volledige I-plan onderaan deze pagina.  </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Voldoende niveau informatieveiligheid <br />Alle (onderwijs)instellingen moeten goed beschermd zijn tegen eventuele cyberaanvallen. We willen natuurlijk niet dat een school door een cyberaanval niet meer bekostigd kan worden, een leraar zijn of haar salaris niet meer krijgt of een student zijn of haar financiering niet meer ontvangt. Ook willen we dat de informatie van OCW altijd betrouwbaar is. Deze zogenoemde informatieveiligheid, moet altijd op niveau zijn. Dit geldt ook voor (het beschermen van) privacy. Daar waar bijvoorbeeld leveranciers onvoldoende aandacht besteden aan privacy, kan ingrijpen vanuit de overheid noodzakelijk zijn. </p>\n</li>\n<li role=\"listitem\">\n<p>Openheid en transparantie <br />Openheid en transparantie zijn al jarenlang een prioriteit. Openheid is heel belangrijk als het gaat om meer doen met data. Sinds de invoering van de Wet openbare overheid (Woo) en de aankondigingen naar aanleiding van de Parlementaire Ondervragingscommissie Kinderopvangtoeslagen (POK) stellen we hogere eisen aan transparantie. </p>\n</li>\n<li role=\"listitem\">\n<p>Meer waarde creëren met data <br />Als we meer doen met data, kunnen we de dienstverlening verbeteren en een bijdrage leveren aan openheid, transparantie en het oplossen van maatschappelijke problemen. Daarvoor moeten we beter worden in het analyseren, delen, combineren en ontsluiten van data. Door de bijbehorende risico’s in te zien en maatregelen te treffen om deze risico’s te beperken, waarborgen we de privacy en veiligheid en voorkomen we ongewenst gebruik van algoritmen.  </p>\n</li>\n<li role=\"listitem\">\n<p>Verantwoord omgaan met nieuwe technologieën <br />De ontwikkelingen in de digitale technologie gaan snel. Dit biedt kansen om onder andere de dienstverlening te verbeteren. Het is wel noodzakelijk om verantwoord om te gaan met deze nieuwe technologieën, zoals kunstmatige intelligentie. Eerst verkennen we wat de meerwaarde is en wat de eventuele risico’s zijn, daarna gaan we er pas mee aan de slag. Ook na het experimenteren moet hard gewerkt worden aan de invoering van een nieuwe technologie. </p>\n</li>\n</ul>\n</div>\n<div>\n<p><a href=\"https://open.overheid.nl/documenten/dpc-6255c667efde4536a772dc9b00bd1595911c86f6/pdf\" target=\"_blank\">Download hier het volledige I-plan.</a></p>\n</div>",
+            "VWS": "<div>\n<div>\n<p>Het Informatieplan het ministerie van Volksgezondheid, Welzijn en Sport geeft inzicht in de doelstellingen op het gebied van digitalisering en informatisering voor de periode van 2024-2038.  </p>\n</div>\n<div>\n<p>VWS werkt aan een gezond, fit en veerkrachtig Nederland door zich in te zetten voor goede, betaalbare, duurzame zorg en ondersteuning. Je moet op ons kunnen vertrouwen, wat de situatie ook is. We stimuleren een gezonde levensstijl, voldoende beweging en goede voeding. Het realiseren van deze missie van vraagt om een goede informatievoorziening. </p>\n</div>\n<div>\n<h3>De belangrijkste punten uit het Informatieplan </h3>\n</div>\n<div>\n<p>Hieronder geven we in het kort de belangrijkste actiepunten weer. Dit zijn initiatieven op het gebied van digitalisering en informatievoorziening, onderverdeeld in de buiten- en binnenkant, ofwel zorgdomein als het VWS-concern.  Meer weten? Download het volledige Informatieplan VWSs onderaan deze pagina.   </p>\n</div>\n<div>\n<p><strong>Buitenkant</strong></p>\n</div>\n<div>\n<p>Initiatieven van VWS op het gebied van digitalisering en informatievoorziening zijn gericht op het zorgdomein. Om invulling te kunnen geven aan de juiste informatie op de juiste plek en op het juiste moment, zal VWS zich richten op de volgende prioriteiten: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Elektronische gegevensuitwisseling stimuleren tussen patiënt en zorgverlener(s) </p>\n</li>\n<li role=\"listitem\">\n<p>Secundair gebruik van data uitvoeren  </p>\n</li>\n<li role=\"listitem\">\n<p>Veilige digitale toegang tot de zorg ondersteunen </p>\n</li>\n<li role=\"listitem\">\n<p>Passende inzet van AI in de zorg ondersteunen en invoeren </p>\n</li>\n<li role=\"listitem\">\n<p>Cybersecurity en bewustwording hiervan in de zorg uitbreiden, doorontwikkelen en implementeren  </p>\n</li>\n<li role=\"listitem\">\n<p>Infectieziektebestrijding en toekomstige pandemieën  </p>\n</li>\n</ul>\n</div>\n<div>\n<p><strong>Binnenkant </strong></p>\n</div>\n<div>\n<p>Initiatieven van VWS op het gebied van digitalisering en informatievoorziening zijn gericht op het VWS-concern. VWS zet in op transparantie van de informatiehuishouding en de toegankelijkheid van informatie. Daartoe moet VWS de eigen digitale systemen en processen goed hebben ingericht en moeten medewerkers beschikken over de nodige digitale kennis, vaardigheden en de juiste tools. De prioriteiten zijn: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Digitale kennis, vaardigheden en inzicht op orde brengen en uitbreiden </p>\n</li>\n<li role=\"listitem\">\n<p>Slimme tools inzetten, voor onder andere het versterken van cybersecurity  </p>\n</li>\n</ul>\n</div>\n<div>\n<p><a href=\"https://open.overheid.nl/documenten/18ae9344-dd00-423a-aced-21ac4b86fdad/file\" target=\"_blank\">Download hier het volledige I-plan.</a></p>\n</div>\n<div> </div>\n</div>",
+            "EZK": "<p><strong>Aanleiding</strong></p>\n<p>Jaarlijks biedt elke minister een Informatieplan aan de Tweede Kamer aan over de optimale toepassing van digitale informatievoorziening in het werk van het ministerie, zowel extern als intern. Dit is de tweede editie en betreft de periode 2024-2028.</p>\n<p><strong>Kernpunten</strong></p>\n<ul>\n<li>Nieuwe ontwikkelingen op het gebied van data en algoritmen zijn onder meer:\n<ul>\n<li>het inrichten van een eigen datastelsel voor EZK;</li>\n<li>het instellen van een Data- en Kennisteam bij de directie Strategie Energiesysteem;</li>\n<li>een Data Safe House bij de directie Realisatie Energietransitie voor concurrentiegevoelig inzicht in investeringen in de energiesector. </li>\n</ul>\n</li>\n<li>Versnelling en verbetering van informatiehuishouding met het oog op Woo en openbaarheid. </li>\n<li>Verbeteren van voorzieningen voor het werken met staatsgeheime processen, documenten en dossiers.</li>\n<li>Alert zijn op de risico’s die quantum computing mee gaat brengen voor digitale veiligheid.</li>\n<li>Het verhogen van de weerbaarheid van medewerkers, onder meer naar aanleiding van oefeningen om in het ministerie digitaal in te breken.</li>\n<li>Het verbeteren van de ‘klantcontacten’ bij de publieke dienstverleners van EZK.</li>\n<li>Binnen het EZK-concern bestaan aanzienlijke verschillen tussen grote diensten, zoals RVO, en kleinere, zoals het Staatstoezicht op de Mijnen. Voor de kleinere is het moeilijk alle techniek en kennis zelf in huis te hebben. Het omgaan hiermee is een zoektocht naar een balans tussen kwaliteit en maatwerk.  </li>\n<li>Er is besloten informatiemanagers aan te stellen bij de diverse DG’s zodat elk DG een eigen deskundige heeft om de mogelijkheden van digitale informatievoorziening optimaal te benutten.</li>\n<li>In dit plan komt voor het eerst generatieve kunstmatige intelligentie (AI) aan de orde. Voor een verantwoorde toepassing hiervan is een rijksbrede handreiking in ontwikkeling. </li>\n</ul>\n<p><strong>Toelichting</strong></p>\n<p>EZK werkt op het gebied van digitale informatievoorziening nauw samen met LNV vanwege de gezamenlijke bedrijfsvoering op het gebied van ICT. De rode draad in de inzet van beide ministeries is dat digitale informatievoorziening een plaats moet hebben ‘in het hart’ van de medewerkers en de organisatie.</p>\n<p>De komende jaren wordt verder doorgewerkt aan het beter in kaart brengen, hebben en houden van de IV-kosten. Zo worden naast de grote ICT-projecten ook de ICT-beheer- en ontwikkelkosten gepubliceerd op het rijks-ICT-dashboard.</p>\n<p>De uitvoerbaarheid van de plannen zal nog verder worden uitgewerkt, getoetst en hangt tevens af van de ontwikkelingen rondom de kabinetsformatie, de keuzes die het nieuwe kabinet zal maken en de financiële consequenties die hieruit voortvloeien.</p>\n<p><a href=\"https://open.overheid.nl/documenten/2763d9f1-6249-4d8d-9be0-f6ecf6f4b048/file\" target=\"_blank\">Download hier het volledige I-plan.</a></p>",
+            "BZ": "<div>\n<div>\n<div>\n<p>Het I-plan (2024-2025) van het ministerie van Buitenlandse Zaken (BZ) bevat een globaal overzicht van de visie en strategie op het gebied van informatievoorziening, digitalisering en het gebruik van data en ICT in relatie tot de maatschappelijke opgave van BZ. </p>\n</div>\n<div>\n<h2>De belangrijkste punten uit het I-plan </h2>\n</div>\n<div>\n<p>Download het I-plan om alles te lezen. Hoofdlijnen uit het I-plan van het ministerie van Buitenlandse Zaken zijn: </p>\n</div>\n<div>\n<ul>\n<li>De mens centraal stellen: het ministerie zet digitale middelen in die passen bij de mensen die deze middelen gebruiken.  </li>\n</ul>\n</div>\n<div>\n<ul>\n<li>Digitale wendbaarheid: medewerkers kunnen wereldwijd met inzet van de aangeboden digitale middelen goed samenwerken in ecosystemen, partnerschappen en diensten verlenen aan burgers en bedrijven. BZ heeft een zo groot mogelijke bewegingsruimte ten opzichte van leveranciers van digitale middelen en diensten. </li>\n</ul>\n</div>\n<div>\n<ul>\n<li>Digitale weerbaarheid: het ministerie neemt passende maatregelen om de data en informatie waarover het departement beschikt, te beveiligen en veilige communicatie te waarborgen. Bij het overwegen en nemen van maatregelen zoekt het ministerie naar de balans tussen veiligheid, weerbaarheid en werkbaarheid van digitale technologie. </li>\n</ul>\n</div>\n<div>\n<ul>\n<li>Openheid en transparantie: het ministerie draagt bij aan een transparante en open overheid door betrouwbare, juiste en volledige informatie op basis van de Wet Open Overheid beschikbaar te stellen en open data te publiceren. </li>\n</ul>\n</div>\n<div>\n<ul>\n<li>Duurzaamheid: digitale duurzaamheid uit zich in het verbruik van energie tot het hergebruik van middelen en het duurzaam opslaan, verwerken en toegankelijk maken van informatie. </li>\n</ul>\n</div>\n</div>\n</div>\n<div>\n<div>\n<p><a href=\"https://open.overheid.nl/documenten/bb528c93-a836-4337-aa5e-96cb4edee923/file\" target=\"_blank\">Download hier het volledige I-plan.</a></p>\n</div>\n</div>",
+            "IENW": "<div>\n<div>\n<p>Het I-plan van het ministerie van Infrastructuur en Waterstaat geeft inzicht in de belangrijkste ontwikkelingen en plannen op het gebied van ICT en digitalisering voor de periode 2022-2026. Het beschrijft de maatschappelijke opgaven van Infrastructuur en Waterstaat en de inzet van ICT en digitalisering daarbij. </p>\n</div>\n<div>\n<h2>De belangrijkste punten uit het I-plan </h2>\n</div>\n<div>\n<p>Hieronder geven we in het kort de belangrijkste thema’s weer. Meer weten? Download het volledige I-plan onderaan deze pagina.    </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>De basis op orde <br />Data en informatie over de bestaande infrastructuur moet duurzaam beschikbaar en toegankelijk zijn. Daarom kijken we kritisch naar de kwaliteit van de netwerken die we nodig hebben voor een bereikbaar, leefbaar en veilig Nederland. Dit betekent dat er keuzes worden gemaakt over de instandhouding van onze infrastructuur. Maar ook over nieuwe eisen die er zijn, zoals klimaatadaptatie, circulair werken en cyberveiligheid. </p>\n</li>\n<li role=\"listitem\">\n<p>Toekomstbestendigheid <br />Infrastructuur en Waterstaat wil Nederland bereikbaar, duurzaam en veilig maken voor toekomstige generaties, ook voor de lange termijn. Het ministerie investeert in de verbetering en uitbreiding van de infrastructuur voor openbaar vervoer, fiets, auto en vervoer over water. We ontwikkelen ‘hubs’, waar reizigers eenvoudig kunnen overstappen naar een (deel)auto, (deel)fiets, trein of metro via reisadvies op maat. Onze mobiliteit en infrastructuur moet toekomstbestendig worden. Een gezonde leefomgeving is actueler dan ooit en we zitten midden in een aantal grote transities. Bijvoorbeeld als het gaat om luchtvaartbeleid en om duurzame mobiliteit. </p>\n</li>\n<li role=\"listitem\">\n<p>Ambities waarmaken <br />Op korte termijn heeft Infrastructuur en Waterstaat de volgende ambities: een goede ontsluiting en bereikbaarheid van nieuwe woonwijken, de aanleg van een aantal nieuwe spoorlijnen, betalen naar gebruik voor voertuigen en het verbeteren van de verkeersveiligheid. Samen met de waterbeheerders willen we de kwaliteit van het oppervlaktewater en grondwater waarborgen en maatregelen treffen om waterverontreiniging terug te dringen. <br />Tegelijk werken we aan de bredere ambities: woningbouw, stikstof en klimaat. Digitalisering maakt de uitvoering hiervan mogelijk, zoals op de terreinen van smart mobility, waterveiligheid, circulaire economie en de logistieke keten. Door data en informatie slim in te zetten kunnen we bijvoorbeeld onze infrastructuur efficiënter en effectiever gebruiken en zo de mobiliteit verbeteren. Ook verzamelen en benutten we data en informatie voor minder geluidshinder, meer veiligheid en een beter milieu. </p>\n</li>\n</ul>\n<p><a href=\"https://open.overheid.nl/documenten/dpc-66dc69e461aaf60c87a1ac767cc7c7734c8078a7/pdf\" target=\"_blank\">Download hier het volledige I-plan.</a></p>\n</div>\n</div>",
+            "LNV": "<p><strong>Aanleiding</strong></p>\n<p>Jaarlijks biedt elke minister een Informatieplan aan aan de Tweede Kamer over de optimale toepassing van digitale informatievoorziening in het werk van het ministerie, zowel extern als intern. Dit is de tweede editie en betreft de periode 2024-2028.</p>\n<p><strong>Kernpunten</strong></p>\n<p>Enkele nieuwe punten en uitwerkingen in dit plan zijn de volgende:</p>\n<ul>\n<li>De aandacht voor data en digitale technieken bij het bereiken van de natuuropgaven, waarbij de samenwerking met andere overheden en ketenpartners van groot belang blijkt. In voorbereiding is de Nationale Databank Vegetatie- en Habitatkarteringen (NDVH).</li>\n<li>Een belangrijke stap in de handhaving van het mestbeleid is de ingebruikname in 2023 van het digitale real time Vervoersbewijs Dierlijke Meststoffen.</li>\n<li>Het belang van een goede databasis voor het volgen van de voortgang van het klimaatbeleid in landbouw en landgebruik.</li>\n<li>De totstandkoming van de landelijke voorziening van het Digitale Stelsel Omgevingswet (DSO-LV). Dat stelsel is van groot belang is bij de aanstaande invoering van de Omgevingswet.</li>\n<li>Digitale Datafaciliteit (DDF) die wordt opgebouwd voor de transitie van het landelijk gebied. Die is van belang voor de regie en de voortgang van de gebiedsgerichte transitie van het landelijk gebied. </li>\n<li>Masterplan Woo. Vanaf 2024 wordt gewerkt aan een integraal plan om te komen tot versnelling van de afhandeling van Woo-verzoeken.</li>\n<li>Openbaarmaking. Er wordt een departementale richtlĳn ontwikkeld voor het proactief openbaar maken en er zijn stappen zetten rondom verplichte openbaarmaking.</li>\n</ul>\n<p>De plannen en ambities van dit Informatieplan zijn gebaseerd op het beeld van de financiële mogelijkheden van LNV zoals die golden in de zomer van 2023. Wellicht is een heroverweging nodig als dat beeld van de rijksfinanciën wijzigt door het nog te sluiten coalitieakkoord. Ook de krapte op de arbeidsmarkt voor IT-specialisten maakt een voorbehoud voor realisatie van plannen en ambities onvermijdelijk. </p>\n<p>De uitvoerbaarheid van de plannen zal nog verder worden uitgewerkt, getoetst en hangt tevens af van de ontwikkelingen rondom de kabinetsformatie, de keuzes die het nieuwe kabinet zal maken en de financiële consequenties die hieruit voortvloeien.</p>\n<p><strong>Toelichting</strong></p>\n<p>LNV werkt op het gebied van digitale informatievoorziening nauw samen met EZK omdat deze ministeries op het gebied van ICT voor een groot deel een gezamenlijke bedrijfsvoering hebben. De rode draad in de inzet van beide ministeries is dat digitale informatievoorziening een plaats moet hebben ‘in het hart’ van de medewerkers en de organisatie. De komende jaren wordt verder doorgewerkt aan het beter in kaart brengen, hebben en houden van de IV-kosten. Zo worden naast de grote ICT-projecten van LNV ook de ICT-kosten gepubliceerd op het Rijks-ICT-dashboard. Onder regie van CIO-Rijk BZK wordt komende tijd, mede op verzoek van de Tweede Kamer, verder gewerkt aan het verbeteren van het inzicht in ICT-kosten.</p>\n<p><a href=\"https://open.overheid.nl/documenten/86be1109-59c8-4a1e-bd85-1aa93cfdb2c9/file\" target=\"_blank\">Download hier het volledige I-plan.</a></p>",
+            "SZW": "<div>\n<div>\n<p>Wij werken aan eerlijk, gezond en veilig werk in Nederland. Iedereen moet de kans krijgen mee te doen, zich te ontwikkelen en kunnen bijdragen aan hun eigen toekomst. Om dit te realiseren wordt de rol van informatievoorziening (IV) steeds belangrijker.  </p>\n</div>\n<div>\n<p>Voldoende aandacht voor IV en het zorgvuldig omgaan met digitalisering zijn daarom essentieel, zodat beleid voor iedereen werkt en projecten uitvoerbaar, veilig, privacy-vriendelijk en toekomstbestendig zijn. Het informatieplan van SZW (2023-2025) bevat onder andere de doelstellingen op het gebied van IV en digitalisering die in 2024 prioriteit zullen hebben.  </p>\n</div>\n<div>\n<h3>De belangrijkste punten uit het I-plan </h3>\n</div>\n<div>\n<p>Hieronder geven we in het kort de belangrijkste thema’s weer. Meer weten? Download het volledige I-plan onderaan deze pagina.   </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>I in het hart brengen <br />SWZ heeft het aantal informatieprofessionals uitgebreid en biedt trainingen aan alle SZW-medewerkers, zodat er altijd voldoende I-vakmanschap aanwezig is. Dit draagt bij aan het professionaliseren van het gebruik van Informatievoorziening voor SZW. Daarnaast creëren we een goed beeld van de bijdrage die technologie levert aan onze maatschappelijke opgaven en doelgroepen vanuit een inclusieve benadering. </p>\n</li>\n<li role=\"listitem\">\n<p>Versterken digitale weerbaarheid<br />We brengen cyberrisico’s in beeld en maken risicoanalyses. Daarnaast creëren we bewustwording onder SZW-medewerkers, zodat zij zelf weten hoe ze kunnen bijdragen aan een veiliger SZW.  </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Data en algoritmen<br />We versterken data-vakmanschap om de data-gedreven wereld om ons heen beter te begrijpen. Data biedt kansen voor de dienstverlening van SZW. Bij succes schalen we onze dataprojecten op en we stoppen met projecten waarvan de waarde onvoldoende aantoonbaar is. Data zijn geen doel, maar middelen om de dienstverlening van SZW rechtvaardiger, inclusiever en toegankelijker te maken. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Informatiehuishouding<br />We verbeteren onze informatiehuishouding en borgen deze in de SZW-organisatie, zodat we voldoen aan de Wet open overheid en de nieuwe Archiefwet. We passen onze systemen en werkprocessen hierop aan, en houden deze basis op orde. Onze medewerkers maken we bewuster van hun eigen bijdrage. </p>\n</li>\n</ul>\n</div>\n<p><a href=\"https://open.overheid.nl/documenten/e93c9a78-f09a-48af-9261-f11e537d2e62/file\" target=\"_blank\">Download hier het volledige I-plan vanaf Overheid.nl </a></p>\n</div>",
+            "AZ": "<div>\n<p>Het informatieplan van het ministerie van Algemene Zaken (AZ) geeft inzicht in de belangrijkste plannen en activiteiten van het departement op het gebied van ICT en digitalisering voor de periode 2024-2027. Het informatieplan is een afgeleide van de i-strategie van AZ, waarin drie thema’s prioriteit hebben.  </p>\n</div>\n<div>\n<h2>De belangrijkste punten uit het I-plan </h2>\n</div>\n<div>\n<p>Hieronder geven we in het kort de belangrijkste thema’s weer. Meer weten? Download het volledige I-plan onderaan deze pagina. </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Versterken digitale weerbaarheid <br />Binnen AZ komt veel informatie samen. Door onze werkzaamheden beschikken we over veel gevoelige informatie. Die informatie moet goed beschermd worden tegen (toenemende) digitale dreigingen. Daarom neemt AZ nu en in de toekomst diverse organisatorische en technische maatregelen, die onder andere gericht zijn op het verhogen van de weerbaarheid, bewustwording en gedrag van medewerkers en het versterken van risicomanagement. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>Bestendigen ICT-landschap <br />Het werk van AZ heeft een moderne en blijvend actuele ICT-omgeving nodig. Daarom werken we aan een ingrijpende vernieuwing van onze infrastructuur, werkplekken en Document Management Systeem, die de ‘basis op orde’ moet brengen. Waar mogelijk maken we gebruik van Rijksbrede producten, waar nodig realiseren en beheren we ICT-systemen zelf. Zodra de basis op orde is, moet deze op orde blijven. Onder meer goed lifecycle management (invoeren, vernieuwen en zo nodig verwijderen of vervangen van systemen) is daarbij van belang. </p>\n</li>\n</ul>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>De basis op orde met Informatiehuishouding <br />Iedere overheidsorganisatie moet zorgen dat informatie zodanig wordt opgesteld, opgeslagen en beheerd, dat het nu en in de toekomst terug te vinden is en toegankelijk is. Ook moet tijdig bepaald worden of informatie vernietigd kan worden of moet worden overgebracht naar het Nationaal Archief. Goed beheer van informatie voorziet in informatiebehoeften en maakt een goede verantwoording mogelijk, aan de Tweede Kamer, burgers en andere belanghebbenden. AZ geeft invulling aan de Rijksbrede visie uit het programma Open op Orde. Daarnaast werken we aan een nieuw systeem voor een beter documentbeheer en archivering (Document Management Systeem). </p>\n</li>\n</ul>\n</div>\n<div>\n<p><a href=\"https://open.overheid.nl/documenten/58e72a5c-c5c3-4e62-9313-b457104cddce/file\" target=\"_blank\">Download hier het volledige I-plan.</a></p>\n</div>"
+        },
+        "Maatschappelijke baten": {
+            "preview": "Met ICT kunnen we overheidszaken sneller, makkelijker, goedkoper, duurzamer en betrouwbaarder maken. Dat levert op allerlei manieren voordelen op voor iedereen in Nederland. We houden daarom per ICT-activiteit bij op welke vlakken we verbeteren.",
+            "continuïteit": "<div>\n<div>\n<p>De Rijksoverheid wil dat de dienstverlening altijd door kan gaan, ook in geval van storingen. Daarom is er veel aandacht voor het snel oplossen van storingen. Ook is goed onderhoud belangrijk en het op tijd vervangen van verouderde systemen. Om te bepalen of een grote ICT-activiteit de continuïteit verbetert meten we of het: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>helpt bij rationalisatie van applicaties en uitfasering van oude applicaties </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>het gemak van het onderhoud groter wordt </p>\n</li>\n<li role=\"listitem\">\n<p>het proces duidelijker en voorspelbaarder wordt </p>\n</li>\n<li role=\"listitem\">\n<p>hierdoor sneller bijgestuurd een aangepast kan worden </p>\n</li>\n</ul>\n</div>\n</div>",
+            "compliance": "<div>\n<div>\n<p>Compliance betekent naleving van regels. Om te bepalen of een grote ICT-activiteit de compliance verbetert meten we of het: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>helpt om te voldoen aan regelgeving </p>\n</li>\n<li role=\"listitem\">\n<p>helpt om te voldoen aan Europese richtlijnen    </p>\n</li>\n</ul>\n</div>\n</div>",
+            "veiligheid": "<div>\n<p>Incidenten hebben vaak ernstige gevolgen: het is vaak kostbaar en schaadt het vertrouwen in de overheid. Daarom is informatieveiligheid erg belangrijk en wordt hier veel aandacht aan besteed. Ook bij de veiligheid staat de gebruiker centraal in het proces. Om te bepalen of een grote ICT-activiteit de veiligheid verbetert meten we of er:   </p>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>minder incidenten zijn </p>\n</li>\n<li role=\"listitem\">\n<p>minder kwetsbaarheden zijn     </p>\n</li>\n</ul>\n</div>\n</div>",
+            "content": "<p>Als Rijksoverheid voeren we allerlei grote ICT-activiteiten uit. Dit doen we met goede redenen, want er valt nog veel te verbeteren op het gebied van (digitale) dienstverlening. We houden daarom per ICT-activiteit bij op welke vlakken we verbeteren. Onderstaande verbeteringen vindt u terug bij de beschrijvingen van de ICT-activiteiten.</p>",
+            "efficiëntie": "<div>\n<p>Met efficiëntie kun je processen versimpelen en versnellen en zorgen dat deze altijd op dezelfde manier worden uitgevoerd. Om te bepalen of een grote ICT-activiteit de efficiëntie verbetert meten we of het: </p>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>proces korter duurt </p>\n</li>\n<li role=\"listitem\">\n<p>goedkoper wordt om iets uit te voeren </p>\n</li>\n<li role=\"listitem\">\n<p>(een deel van) het proces wordt geautomatiseerd  </p>\n</li>\n</ul>\n</div>\n</div>",
+            "vakmanschap": "<div>\n<div>\n<p>Naast de ICT-medewerkers moeten ook alle ambtenaren hun kennis en vaardigheden op het gebied van ICT actueel hebben en houden. Dit ondersteunt de inzet en ontwikkeling van digitalisering. Om te bepalen of een grote ICT-activiteit het vakmanschap verbetert meten we of het: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>bijdraagt aan ontwikkeling en behoud van kennis en vaardigheden bij ICT-medewerkers </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>gebruiksgemak en de overzichtelijkheid van het ICT-landschap beter wordt </p>\n</li>\n<li role=\"listitem\">\n<p>bijdraagt aan betere beheerprocessen  </p>\n</li>\n</ul>\n</div>\n</div>",
+            "duurzaamheid": "<div>\n<div>\n<p>Wat helpt om gebruikers een herkenbare en betrouwbare ervaring te geven, is dat systemen en programma's langer meegaan. De Rijksoverheid werkt hard aan toekomstbestendige (nieuwe) technologie, zowel op het gebied van hardware als software. Om te bepalen of een grote ICT-activiteit de duurzaamheid verbetert meten we of:  </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>systemen en apparaten langer mee gaan </p>\n</li>\n<li role=\"listitem\">\n<p>de beschikbaarheid van middelen beter is </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>applicaties voldoende uit te breiden en aan te passen zijn </p>\n</li>\n</ul>\n</div>\n</div>",
+            "dienstverlening": "<div>\n<div>\n<p>De dienstverlening van de Rijksoverheid moet zoveel mogelijk logisch zijn gezien vanuit de mensen die er gebruik van maken. Om te bepalen of een grote ICT-activiteit de dienstverlening verbetert meten we of het: </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>de klanttevredenheid verhoogt </p>\n</li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>zorgt dat de dienstverlening goed aan te passen is wanneer nodig </p>\n</li>\n<li role=\"listitem\">\n<p>de dienstverlening effectiever maakt </p>\n</li>\n<li role=\"listitem\">\n<p>zorgt voor betere ondersteuning aan medewerkers en de organisatie </p>\n</li>\n<li role=\"listitem\">\n<p>de informatiehuishouding verbetert   </p>\n</li>\n</ul>\n</div>\n</div>"
+        },
+        "Release notes": {
+            "content": "<h2><strong>December 2023 </strong></h2>\n<div>In deze release is het Rijks ICT-dashboard overzichtelijker gemaakt. Daarnaast is het gebruikersgemak verbeterd en zijn bugs opgelost. </div>\n<ol>\n<li>De voorpagina is overzichtelijker ingedeeld. Er zijn nu duidelijke blokken voor de I-strategie Rijk en de grote ICT-activiteiten.</li>\n<li>Een aantal onderwerpen uit de I-strategie worden op een eigen pagina toegelicht.</li>\n<li>De meest actuele I-plannen van de ministeries zijn beschikbaar op de ministeriepagina’s.</li>\n<li>De toegankelijkheid is verbeterd op basis van feedback van een blinde toegankelijkheidsexpert. Het dashboard is nu ook goed te lezen met de schermlezer ‘Jaws’.</li>\n<li>De open data is nu ook in het Open Document formaat (ods-indeling) te downloaden.</li>\n</ol>\n<h2>September 2023</h2>\n<p>In deze release zijn acht belangrijke verbeteringen op het Rijks ICT-dashboard. Daarnaast is het gebruikersgemak verbeterd en zijn bugs opgelost.</p>\n<h3><strong>1. De hoofdpagina is uitgebreid met vier nieuwe informatieblokken:</strong></h3>\n<ul>\n<li>I-strategie\n<ul>\n<li>Algemene pagina rondom de i-strategie. Op deze pagina staat ook informatie over de werkagenda van de staatssecretaris. De I-strategie is een richtlijn om de dienstverlening van de Rijksoverheid aan burgers en bedrijven te verbeteren, betere informatievoorziening mogelijk te maken en de transparantie en openheid van de Rijksoverheid te vergroten.</li>\n</ul>\n</li>\n<li>Wat we verbeteren\n<ul>\n<li>Met ICT kunnen we overheidszaken sneller, makkelijker, goedkoper, duurzamer en betrouwbaarder maken. Dat levert op allerlei manieren voordelen op voor iedereen in Nederland. We houden daarom per ICT-activiteit bij op welke vlakken we verbeteren.</li>\n</ul>\n</li>\n<li>Duurzaamheid\n<ul>\n<li>Wie digitaal werkt, heeft ook (digitaal) afval, stoot CO2 uit en gebruikt energie. Lees meer over onze projecten waarmee we ons computer- en datagebruik onderzoeken en veranderen. Zo verkleinen we de invloed op mens en milieu.</li>\n</ul>\n</li>\n<li>ICT-medewerkers\n<ul>\n<li>Binnen de Rijksoverheid werken we met eenduidige kwaliteitenprofielen voor professionals in de informatievoorziening. Hiermee komen we er achter welke professionals we al in huis hebben en welke we nog missen om onze doelen te halen.</li>\n</ul>\n</li>\n</ul>\n<h3>2. <strong>Verbeteringen voor BIT-adviezen </strong></h3>\n<p>Alle grote ICT-activiteiten worden aangemeld voor een BIT-advies. De uitgevoerde BIT-adviezen zijn nu beter zichtbaar.</p>\n<ul>\n<li>Op hoofdpagina is het aantal BIT-adviezen zichtbaar voor de ICT-activiteiten in uitvoering</li>\n<li>Bij elke ICT-activiteit goed te zien of er een BIT-advies is geweest</li>\n<li>Er kan geselecteerd worden op ICT-activiteiten met een BIT-advies</li>\n</ul>\n<h3>3. Doorlinken naar detailpagina’s</h3>\n<p>Veel cijfers op de hoofdpagina hebben een link naar een detailpagina. Op deze pagina’s staat een toelichting (bv aantal ICT-activiteiten leidt naar een overzicht met alle ICT-activiteiten).</p>\n<h3>4. Meer gegevens over grote ICT-activiteiten</h3>\n<p>De gegevens rondom de grote ICT-activiteiten zijn uitgebreid. Naast verbeteringen in de filtermogelijkheden zijn nieuwe gegevens beschikbaar. Deze worden in de komende tijd door de ministeries ingevuld.</p>\n<ul>\n<li>De ontwikkelwijze is in te vullen (bv Agile, Waterval)</li>\n<li>De soort activiteit is zichtbaar. Zo is onder zichtbaar of een ICT-activiteit te maken heeft met vernieuwing, beheer en onderhoud of de aanpak van legacy.</li>\n<li>De ICT-activiteiten zijn gekoppeld aan de onderwerpen op <a href=\"https://www.rijksoverheid.nl/onderwerpen\" target=\"_blank\">Rijksoverheid.nl</a>. Nieuw is dat elke ICT-activiteit ook de sub-onderwerpen (dienstverlening) kan aangeven. Deze staan ook op Rijksoverheid.nl. Zo wordt duidelijker waarop we verbeteren met het uitvoeren van de ICT-activiteit.</li>\n</ul>\n<h3>5. Ministeriepagina is uitgebreid</h3>\n<p>Elk ministerie heeft een informatieplan opgeleverd. Een korte samenvatting met een doorverwijzing naar het informatieplan is op het Rijks ICT-dashboard beschikbaar.</p>\n<h3>6. Verbeterde zoekmachine</h3>\n<p>De zoekbalk op de hoofdpagina is verbeterd, waardoor gebruikers nu ook kunnen zoeken op \"ministerie\" en \"onderwerp\".</p>\n<h3>7. Open data</h3>\n<p>De toegankelijkheid van de open data is verbeterd. Er is een uitgebreid overzicht van alle ICT-activiteiten beschikbaar in het Excel-formaat.</p>\n<h3>8. Techniek</h3>\n<p>De digitale toegankelijkheid is verbeterd door het implementeren van verbeterde schermlezerondersteuning en het verminderen van mogelijke obstakels voor gebruikers met beperkingen. De technische compliance van het Rijks ICT-dashboard is verbeterd en geoptimaliseerd volgens de normen van internet.nl.</p>"
+        },
+        "Archief": {
+            "content": "<div> <h2>Informatie uit het verleden blijft belangrijk</h2> </div> <div> <p>Informatie van de overheid moet makkelijk te vinden zijn, zowel van nu als van vroeger. Websites zijn een belangrijke bron van informatie voor burgers, bedrijven en overheden. Ook oudere versies van websites bevatten soms nog waardevolle informatie. Bijvoorbeeld informatie waar u rechten aan kunt ontlenen.</p> </div> <div> <p>Door websites te bewaren in een webarchief, blijft deze informatie beschikbaar. Zo kunt u altijd terugkijken naar openbare informatie van vroeger. Dit is verplicht voor alle overheidswebsites.</p> </div> <div> <h2>Hoe werkt het webarchief?</h2> </div> <div> <p>In het overzicht ziet u het <a href=\"https://minbzk.sitearchief.nl/?subsite=rijksictdashboard#archive\" target=\"_blank\" rel=\"noopener\">webarchief van het Rijks ICT-dashboard</a>. Kies een datum via de kalender en bekijk de inhoud van de website zoals die op dat moment was. U kunt teruggaan tot 1 oktober 2021.</p> </div> <div> <p>&nbsp;</p> </div> <div> <p>Heeft u vragen? Neem dan contact met ons op via de <a href=\"\\contact\">contactpagina</a>.</p> </div> <p>Meer weten? <a href=\"https://www.nationaalarchief.nl/archiveren/kennisbank/Richtlijn-Archiveren-Overheidswebsites\">Bekijk de Richtlijn archiveren overheidswebsites hier</a>.</p>"
+        },
+        "AI": {
+            "content": "<p>Dit is dummy tekst.</p>",
+            "preview": "Dit is een introtekst voor AI"
+        },
+        "Algoritmen": {
+            "content": "<div>\n<div>\n<p>Een algoritme is een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden (bron: Algemene Rekenkamer). Je komt algoritmes overal tegen, ook bij de overheid.  </p>\n</div>\n<div>\n<p>Wie regelmatig iets op internet doet, komt algoritmes tegen. Browsers, online bankieren, streamingdiensten als Netflix, en sociale media als Facebook en Instagram; algoritmes maken het mogelijk. </p>\n</div>\n<div>\n<p>Ook de overheid gebruikt algoritmes. Denk aan het online aanvragen van een subsidie. Het algoritme helpt dan om direct te beoordelen of je voldoet aan de voorwaarden of niet. Dit is een voorbeeld van een algoritme met duidelijke beslisregels en een eenduidig antwoord: ja of nee?   </p>\n</div>\n<div>\n<p>Andere algoritmes kunnen trends herkennen. Ze laten bijvoorbeeld zien hoe criminaliteit zich ontwikkelt in een stad. Dat helpt de politie en gemeente de juiste maatregelen te nemen. Of ze analyseren (anoniem) gezondheidsgegevens, waarmee beleid voor de publieke gezondheid gemaakt kan worden. Soms zijn deze algoritmes ‘(zelf)lerend’. Dat wil zeggen dat ze getraind worden om zelf patronen te ontdekken.  </p>\n</div>\n</div>",
+            "preview": "Een algoritme, wat is dat precies? Een set van regels en instructies die een computer volgt bij het maken van berekeningen, om een probleem op te lossen of een vraag te beantwoorden. Lees hier meer.",
+            "Meer over verantwoord algoritmegebruik door de overheid": "<div>\n<div>\n<p>Naast het algoritmeregister neemt de overheid ook andere maatregelen.  </p>\n</div>\n<div>\n<ul role=\"list\">\n<li role=\"listitem\">\n<p>De Algoritmetoezichthouder (<a href=\"https://www.autoriteitpersoonsgegevens.nl/themas/algoritmes-ai/coordinatie-toezicht-algoritmes-ai/directie-coordinatie-algoritmes-dca\" target=\"_blank\">Dienst Coördinatie Algoritmes</a> bij de Autoriteit Persoonsgegevens) coördineert de controle op algoritmes: voldoen de algoritmes van de overheid aan alle regels die daarvoor gelden? <a href=\"https://www.autoriteitpersoonsgegevens.nl/actueel/algoritmetoezicht-ap-van-start\" target=\"_blank\">Meer informatie over de toezichthouder</a>. </p>\n</li>\n<li role=\"listitem\">\n<p>Het ministerie van BZK werkt aan het <a href=\"https://algoritmes.pleio.nl/cms/view/3877b524-e174-40c6-bcac-f3db875867e1/implementatiekader\" target=\"_blank\">Algoritmekader 'Inzet van algoritmes'</a>. Dat maakt voor overheden duidelijk welke eisen er gelden voor algoritmes en hoe ze ervoor kunnen zorgen dat hun algoritmes aan die eisen kunnen voldoen. </p>\n</li>\n<li role=\"listitem\">\n<p>Wetgeving: er wordt gewerkt aan een voorstel voor een wettelijk kader voor transparantie van algoritmes. Dat is aangekondigd in de <a href=\"https://www.rijksoverheid.nl/documenten/kamerstukken/2022/12/21/kamerbrief-over-het-algoritmeregister\" target=\"_blank\">kamerbrief van december 2022</a>. </p>\n</li>\n</ul>\n</div>\n<div>\n<p>Links: </p>\n</div>\n</div>\n<div>\n<ul>\n<li>Het Algoritmeregister <a href=\"https://algoritmes.overheid.nl/nl\" target=\"_blank\">https://algoritmes.overheid.nl/nl</a></li>\n<li>Veelgestelde vragen over het Algoritmeregister <a href=\"https://algoritmes.overheid.nl/nl/footer/vragen\" target=\"_blank\">https://algoritmes.overheid.nl/nl/footer/vragen</a></li>\n</ul>\n</div>",
+            "Impactvolle algoritmes": "<div>\n<p>Algoritmes zijn niet perfect. Ze maken soms fouten en er is een risico op vooroordelen, net als bij mensen. In het verleden is dat een paar keer flink misgegaan met geautomatiseerde processen bij de overheid.   </p>\n</div>\n<div>\n<p>De overheid werkt aan verbetering. Dat doet ze bijvoorbeeld door algoritmes op een verantwoorde manier te ontwikkelen en te gebruiken. Belangrijk is dat de overheid transparant is over de impactvolle algoritmes die ze gebruikt. Zodat burgers en belanghebbenden inzicht hebben in algoritmes die invloed hebben op hun leven. Impactvol zijn bijvoorbeeld de algoritmes die rechtsgevolgen hebben voor mensen, of die zorgen dat de overheid mensen classificeert. Denk aan het identificeren van mensen die recht hebben op bepaalde voorzieningen, zodat de overheid proactief hulp kan bieden.   </p>\n</div>",
+            "Openheid in Algoritmeregister": "<p>Burgers moeten erop kunnen vertrouwen dat algoritmes voldoen aan publieke waarden en wettelijke normen. Ook is belangrijk dat wordt uitgelegd hoe ze werken; overheden moeten transparant zijn over algoritmes en hun toepassing. Zodat burgers, maatschappelijke organisaties en media de overheid kritisch kunnen volgen en bevragen, en controleren of zij zich aan de regels houdt. Het Algoritmeregister kan op die manier een belangrijke bijdrage leveren aan het beter uitlegbaar maken van de toepassing en uitkomst van algoritmes. In het Algoritmeregister plaatsen overheden in ieder geval informatie over hun impactvolle algoritmes.  </p>",
+            "Doelen Algoritmeregister": "<ol role=\"list\">\n<li role=\"listitem\">\n<p><strong>Hoofddoel van het Algoritmeregister: vertrouwen in de overheid vergroten </strong>. De overheid is er onder andere om maatschappelijke meerwaarde te bieden. Dit kan de overheid alleen effectief doen als er vertrouwen in de overheid is en mensen zich gehoord en betrokken voelen. Het Algoritmeregister moet bijdragen aan het verbeteren van het vertrouwen in de overheid. </p>\n</li>\n<li role=\"listitem\">\n<p><strong>Versterken van de positie van burgers en bedrijven</strong>. Er zijn verschillende voorbeelden (bijvoorbeeld de Kinderopvangtoeslagaffaire) waarbij burgers en bedrijven zich onvoldoende konden verdedigen tegen dwalingen van de overheid. Met het Algoritmeregister krijgen burgers en bedrijven meer informatie in handen over hoe processen werken en welke keuzes worden gemaakt. </p>\n</li>\n<li role=\"listitem\">\n<p><strong>Demystificatie van algoritme- en AI-gebruik </strong>. Voor veel mensen is onduidelijk wat een algoritme is en hoe deze effect heeft op zijn of haar leven. Het Algoritmeregister maakt inzichtelijk waar en hoe algoritmes en AI worden gebruikt door de overheid. Het maakt daarmee algoritme- en AI-gebruik meer concreet en tastbaar. </p>\n</li>\n<li role=\"listitem\">\n<p><strong>Verantwoord handelen</strong>.  De overheid moet op een verantwoorde manier handelen. Het Algoritmeregister maakt het handelen van de overheid meer openbaar.  </p>\n</li>\n<li role=\"listitem\">\n<p><strong>Controleerbaarheid van de overheid vergroten</strong>. Door te laten zien wat de overheid doet, kunnen burgers en organisaties beter controleren wat de overheid doet. Het Algoritmeregister ondersteunt controle door de maatschappij.  </p>\n</li>\n<li role=\"listitem\">\n<p><strong>Vergroten uitlegbaarheid </strong>. De overheid moet haar besluiten altijd kunnen uitleggen. Het proces van het vullen van het Algoritmeregister dwingt de overheid om haar besluitvormingsproces en de eventuele toepassing van algoritmes begrijpelijk uit te leggen. Daarnaast kunnen burgers hierdoor proactief aangeven of een uitleg duidelijk is en overeenkomt met hoe zij de werking ervaren. </p>\n</li>\n<li role=\"listitem\">\n<p><strong>Transparanter zijn over het handelen</strong>. Om openheid en controleerbaarheid te kunnen bieden, moet de overheid transparant zijn. Eén van de manieren om dit te doen is het zorgvuldig vullen van het Algoritmeregister.  </p>\n</li>\n</ol>"
+        },
+        "Grote ICT-activiteiten": {
+            "preview": "De grote ICT-activiteiten krijgen binnen de Rijksoverheid extra aandacht. U vindt hier meer informatie over deze ICT-activiteiten, welke doelen ze hebben en hoe lang ze gaan duren."
+        },
+        "Architectuur": {
+            "content": "<div>\n<p>IT-architectuur, wat houdt het eigenlijk in? IT-architectuur is in andere woorden hoe iets samenhangt. Het komt in de kern neer op het gestructureerd oplossen van een behoefte. Dat kan simpeler: het is het toepassen van gezond verstand volgens een bepaald recept. En voor de duidelijkheid, het heeft dus niets met de traditionele architectuur van gebouwen of kantoren te maken. </p>\n</div>\n<div>\n<p>IT-architectuur gaat om het inzichtelijk maken van samenhang. Inzicht én overzicht zijn al heel handig, maar soms houdt dat de diepgang tegen. Daarom maakt IT-architectuur gebruik van verschillende invalshoeken: de scope (reikwijdte) van de bedrijfsarchitectuur, informatiesystemenarchitectuur en technologie-architectuur. Met de scope gebruik je slechts het relevante deel per invalshoek. </p>\n</div>\n<h2>Invalshoeken  </h2>\n<div>\n<p>De <strong>bedrijfsarchitectuur </strong>geeft aan waarom we iets doen en wat ermee bereikt moet worden, dus het waarom en waartoe. Denk aan de missie en visie van de organisatie, het bedrijfsplan, knelpunten, enzovoort. Een uitkomst hiervan kan bestaan uit een lijst van openstaande punten en/of risico’s en aandachtspunten voor het vervolg.  </p>\n</div>\n<div>\n<p>De <strong>informatiesystemenarchitectuur </strong>is de ‘waarmee’ en maakt dus aan de hand van de bedrijfsarchitectuur een lijst van openstaande punten, risico’s en aandachtspunten voor het vervolg. </p>\n</div>\n<div>\n<p>Dan ben je er nog niet. Dan komt de ‘hoe’, de <strong>technologie-architectuur</strong> aan de beurt. Aan de hand van de resultaten van onder andere de bedrijfsarchitectuur én vervolgens de informatiesystemenarchitectuur creëer je een doel-technologie-architectuur en een lijst met openstaande punten waarop de huidige architectuur nog niet voldoet aan de doel-architectuur.  </p>\n</div>\n<div>\n<p>Je kan het als volgt zien: waarom en waartoe + waarmee + hoe = IT-architectuur = samenhang.  </p>\n</div>\n<div>\n<h2>Lang verhaal kort </h2>\n</div>\n<div>\n<p>IT-architectuur lijkt soms ingewikkeld, omdat technische details van de IT-oplossing worden verward met het helder maken van de vraagstelling. Daarbij moet je ook nog rekening houden met het goed afbakenen van de voorwaarden waaraan een oplossing moet voldoen. Maar onderaan de streep maakt IT-architectuur samenhang inzichtelijk én overzichtelijk door middel van invalshoeken.  </p>\n</div>\n<div>\n<h2>Handige links </h2>\n</div>\n<div>\n<p>Dit was slechts het tipje van de sluier. Wil je meer weten over IT-architectuur of je verder inlezen? Dan raden we je de publicatie <a href=\"https://www.it-academieoverheid.nl/onderwerpen/i/it-en-it-design/documenten/publicaties/2021/08/04/eenvoud-van-informatiearchitectuur-v.-05\" target=\"_blank\">De eenvoudige basis van IT-architectuur</a> aan. Voor meer informatie kan je ook terecht op de <a href=\"https://www.it-academieoverheid.nl/onderwerpen/i/it-en-it-design\" target=\"_blank\">IT-academie van de overheid</a>. Toch visueel ingesteld? Bekijk dan de video <a href=\"https://www.youtube.com/watch?v=qDI2oF1bASk\" target=\"_blank\">Why Enterprise Architecture?</a>. Deze video is in het Engels, maar heeft Nederlandse ondertiteling.  </p>\n<p> </p>\n</div>",
+            "preview": "IT-architectuur lijkt soms ingewikkeld, omdat technische details van de IT-oplossing worden verward met het helder maken van de vraagstelling. Wat houdt het nou precies in?"
+        },
+        "Softwarekwaliteit": {
+            "content": "<div>\n<p>In het kader van transparantie en het bepalen het bedrijfsbelang, is het niet gek om eerst te moeten weten wat de huidige status is van ICT-middelen en welke processen daarmee ondersteund worden. </p>\n</div>\n<div>\n<p>Met de Rijksbrede visie IT-assetmanagement (ITAM) wordt het mogelijk hier beleid, richtlijnen en kaders voor op te stellen. ITAM bevat namelijk het totaal aan afspraken, taken en technologische hulpmiddelen rondom het inventariseren van álle ICT-middelen binnen een organisatie.  </p>\n</div>\n<div>\n<h2>Goed ingeregeld ITAM </h2>\n</div>\n<div>\n<p>Een van de uitkomsten van een goed ingeregeld ITAM is dat een organisatie niet alleen beschikt over live detailinformatie, maar ook over deze informatie uit het verleden. ITAM is dus belangrijk, zeker bij het zorgvuldig omgaan met (digitale) gegevens. Wat je namelijk niet weet, kun je niet beheren, beveiligen, toegang tot verlenen of kosten van beheren.  </p>\n</div>\n<div>\n<p>Zeker in het kader van transparantie, is het van belang om precies te weten wat de status is. In dit geval van ICT-middelen en bedrijfsprocessen die daarmee ondersteund worden.  </p>\n</div>\n<div>\n<p>Pas bij een volledig overzicht, wordt het mogelijk de risico’s af te wegen aan de belangen. Het lange verhaal kort, lees je terug in de visie van ITAM, CIO Rijk:  </p>\n<p><em>\"De onderelen van de Rijksoverheid beschikken over een gestandaardiseerd en genormaliseerd, volledig, actueel en accuraat inzicht van alle ICT-middelen. Dit inzicht is gekoppeld aan de kosten en risico's van deze middelen en gerelateerd aan de waarde van het bedrijfsproces en de in dit bedrijfsproces gelegen 'Te Beschermen Belangen'.\"</em></p>\n</div>\n<div>\n<h2>Het doel van de visie </h2>\n</div>\n<div>\n<p>Onderaan de streep is het doel van deze Rijksbrede visie om een volledig, actueel én accuraat inzicht te hebben en te houden van alle relevante en gebruikte ICT-middelen. Heb je dit inzicht scherp, kan je verschillende kosten boven water krijgen en daar weer op sturen.  </p>\n</div>\n<div>\n<p> </p>\n</div>",
+            "preview": "Met de Rijksbrede visie ITAM (IT-Assetmanagement) wordt het mogelijk beleid, richtlijnen en kaders op te stellen voor de huidige status van ICT-middelen en het zorgvuldig omgaan met (digitale) gegevens."
+        },
+        "Informatiehuishouding": {
+            "content": "<div>\n<div>\n<p>De Rijksoverheid werkt met veel informatie. Documenten, mails, chatberichten, enzovoort. Het is belangrijk dat al die informatie goed beheerd wordt, aan de hand van regels en voorzieningen. Al die regels en voorzieningen samen noemen we informatiehuishouding. Als de informatiehuishouding goed is, is informatie <a href=\"https://www.noraonline.nl/wiki/Duurzame_Toegankelijkheid\" target=\"_blank\">duurzaam toegankelijk</a>: altijd vindbaar, beschikbaar, leesbaar, begrijpelijk, betrouwbaar én toekomstbestending. Voor iedereen die er recht op heeft en zo lang als het nodig is.  </p>\n</div>\n<div>\n<p>Met duurzaam toegankelijke informatie kunnen ambtenaren hun werk goed uitvoeren en verantwoording afleggen. Ook kunnen we duurzaam toegankelijke informatie, actief én op verzoek, openbaar maken. Dan is informatie beschikbaar voor bijvoorbeeld naslag, onderzoek of het behoud van cultureel erfgoed.  </p>\n</div>\n</div>",
+            "preview": "Documenten, mails, chatberichten, enzovoort. Het is belangrijk dat al die informatie goed beheerd wordt, aan de hand van regels en voorzieningen. Al die regels en voorzieningen samen noemen we informatiehuishouding.",
+            "Verbeteren van de informatiehuishouding": "<div>\n<p>De Rijksoverheid werkt aan het op orde brengen van de informatiehuishouding. In 2021 is het <a href=\"https://www.open-overheid.nl/over-open-overheid/instrumenten-en-diensten/publicaties/2022/09/19/generiek-actieplan-open-op-orde\" target=\"_blank\">generiek actieplan Open op Orde</a> opgesteld. Er bleek verbetering nodig op vier thema's: </p>\n</div>\n<div>\n<ol role=\"list\">\n<li role=\"listitem\">\n<p><a href=\"https://www.open-overheid.nl/sporen-en-actielijnen/spoor-informatiehuishouding-actielijn-1\" target=\"_blank\">(Informatie)professionals</a>;</p>\n</li>\n<li role=\"listitem\">\n<p><a href=\"https://www.open-overheid.nl/sporen-en-actielijnen/spoor-informatiehuishouding-actielijn-2\" target=\"_blank\">Volume en aard van informatie</a>; </p>\n</li>\n<li role=\"listitem\">\n<p><a href=\"https://www.open-overheid.nl/sporen-en-actielijnen/spoor-informatiehuishouding-actielijn-3\" target=\"_blank\">Informatiesystemen</a>;</p>\n</li>\n<li role=\"listitem\">\n<p><a href=\"https://www.open-overheid.nl/sporen-en-actielijnen/spoor-informatiehuishouding-actielijn-4\" target=\"_blank\">Bestuur en naleving</a>.  </p>\n</li>\n</ol>\n</div>\n<div>\n<p>Rijksorganisaties hebben aanvullend <a href=\"https://www.rijksoverheid.nl/documenten/kamerstukken/2022/07/20/kamerbrief-bij-actieplannen-en-nulmetingen-open-op-orde\" target=\"_blank\">actieplannen</a> opgesteld. Organisaties verschillen natuurlijk van elkaar, dus bij veel organisaties is andere informatie en dus andere invulling van de informatiehuishouding nodig. </p>\n</div>\n<div>\n<p>In het najaar van 2023 is het generiek actieplan geactualiseerd. In het <a href=\"https://open.overheid.nl/documenten/4d2a2d10-4443-4521-971b-4fcfcbfbb792/file\" target=\"_blank\">Meerjarenplan Openbaarheid en Informatiehuishouding Rijksoverheid</a> staat wat er op de planning in de toekomst staat, wat er tot nu toe aan resultaten is behaald en maatregelen voor de verbetering van openbaarheid en informatiehuishouding op de korte termijn (2024-2025). </p>\n</div>",
+            "Volwassenheidsmeting": "<div>\n<div>\n<p>Rijksorganisaties voeren ieder jaar een zelfevaluatie uit naar de staat van hun informatiehuishouding. Dit noemen we een <a href=\"https://www.open-overheid.nl/instrumenten-en-diensten/publicaties/2023/01/06/meting-informatiehuishouding-2022\" target=\"_blank\">volwassenheidsmeting</a>. Zo weten organisaties wat goed gaat en waar extra aandacht aan moet worden besteed. De volwassenheidsmeting bestaat in totaal uit 32 vragen. 5 vragen gaan over de hoofddoelstelling, de overige vragen gaan over de vier eerdergenoemde thema's. </p>\n</div>\n<div>\n<h3>Volwassenheidsniveaus </h3>\n</div>\n<div>\n<p>Het streven is dat iedere rijksorganisatie gemiddeld op niveau 3 à 4 uitkomt. Hieronder staat wat de verschillende niveaus betekenen.  </p>\n</div>\n<div>\n<p><strong>Niveau 1: Ad hoc </strong><br />Er wordt ad hoc en reactief gewerkt. Processen, procedures en beleid zijn niet gedefinieerd en verantwoordelijkheden zijn niet belegd. Ook de missie en visie ontbreken.  </p>\n</div>\n<div>\n<p><strong>Niveau 2: Herhaalbaar </strong><br />Er ontstaat bewustwording voor het beschrijven van processen, procedures en beleid, maar worden alsnog ad hoc en inconsistent toegepast. Alleen de minimale vaardigheden zijn gedefinieerd. Training is mogelijk, maar wordt zonder achterliggend plan gedaan. Verantwoordelijkheden zijn wel beschreven.  </p>\n</div>\n<div>\n<p><strong>Niveau 3: Gedefinieerd </strong><br />Er wordt gewerkt volgens de vereiste kaders. Processen, procedures en beleid worden gedefinieerd en uitgevoerd en verantwoordelijkheden en KPI’s worden benoemd. Benodigde vaardigheden zijn gedefinieerd en trainingen vinden plaats op eigen initiatief. Strategie en visie zijn ontwikkeld en er zijn procedures ingericht om te evalueren wanneer systemen moeten worden veranderd. </p>\n</div>\n<div>\n<p><strong>Niveau 4: Gemanaged  </strong><br />Er is sprake van “compliancy by design”. Werkzaamheden zijn dus gekoppeld aan de visie en strategie van de organisatie. Processen en procedures zijn geïntegreerd in de organisatiestructuur. Er wordt proactief gewerkt aan het continu verbeteren van deze processen en procedures en er zijn procedures ingericht om actief in de gaten te houden wanneer systemen moeten worden veranderd. Trainingen worden juist structureel ingezet en kennisdeling wordt daarbij gestimuleerd. Ook wordt er actief data verzameld om het functioneren te evalueren en weer te verbeteren. </p>\n</div>\n</div>\n<div>\n<div> </div>\n<div>\n<p> </p>\n</div>\n</div>",
+            "Stand van zaken per thema": "<p>Het gemiddelde volwassenheidsniveau per thema is het gemiddelde van alle vragen over dit thema van alle organisaties die de volwassenheidsmeting uitvoeren. Het gaat om alle ministeries, de Nationale Politie, de Raad voor de Rechtspraak, het Kabinet van de Koning, de Nationale Ombudsman en De Nederlandse Bank. Als een organisatie (zoals een ministerie) uit meerdere onderdelen bestaat, is er eerst een gemiddelde uitgerekend voor die organisatie.</p>\n<p><strong>Meer informatie</strong></p>\n<p>Meer weten of per Rijksorganisatie lezen wat de scores is? Hieronder een aantal links. </p>\n<ul>\n<li><a href=\"https://www.rijksoverheid.nl/documenten/kamerstukken/2022/07/20/kamerbrief-bij-actieplannen-en-nulmetingen-open-op-orde\" target=\"_blank\">Lees hier meer over de actieplannen en 0-metingen Open op Orde</a></li>\n<li><a href=\"https://www.open-overheid.nl/onderwerpen/meten-en-verbeteren/jaarlijks-evalueren/1-metingen-informatiehuishouding-2022\" target=\"_blank\">Lees hier meer over de 1-metingen uit 2022</a> </li>\n</ul>",
+            "Huidige stand van zaken": "<p>Het gemiddelde volwassenheidsniveau is het gemiddelde over alle thema’s van alle organisaties die de volwassenheidsmeting uitvoeren. Het gaat om alle ministeries, de Nationale Politie, de Raad voor de Rechtspraak, het Kabinet van de Koning, de Nationale Ombudsman en De Nederlandse Bank. Als een organisatie (zoals een ministerie) uit meerdere onderdelen bestaat, is er eerst een gemiddelde uitgerekend voor die organisatie. NB: bij de 0-meting (2021) is deze tussenstap niet uitgevoerd. </p>"
+        },
+        "Informatiebeveiliging": {
+            "content": "<h2><strong>Informatiebeveiliging en cybersecurity</strong></h2>\n<p>Het management van de hele Rijksoverheid besteedt veel aandacht aan informatiebeveiliging en cybersecurity. Ze worden hierin ondersteund door <a href=\"https://rijksictdashboard.nl/ict-medewerkers\" target=\"_blank\">goed opgeleide</a> specialistische adviseurs. Het management stuurt hierbij op balans in de maatregelenset. Niet alleen technische maatregelen, maar ook aandacht voor opleidingen en gedrag én aandacht voor goede organisatie en processen komen hierbij kijken. Daarnaast is balans tussen preventieve maatregelen versus detectie en respons essentieel: voorkomen is het beste, maar naast hoge muren heb je natuurlijk ook bewakers nodig.</p>\n<p>Elke Rijksorganisatie stuurt op informatiebeveiliging en cybersecurity, evalueert de werking van maatregelen en maakt verbeterplannen. Daarbij is er ook sprake van departementale en Rijksbrede coördinatie en toezicht. CIO Rijk monitort de stand van zaken rijksbreed, op basis van CISO-gesprekken en de IB-beelden.</p>\n<h2><strong>Betere behartiging van belangen</strong></h2>\n<p>Rijksbreed voeren ook de Algemene Rekenkamer en de Auditdienst Rijksoverheid onderzoeken uit. Op basis van al deze zaken maakt CIO-Rijk een rode-draden-analyse en komt met rijksbrede verbetervoorstellen. Uitvoering van al die organisatiespecifieke, departementale en rijksbrede verbetertrajecten, zorgen voor betere behartiging van alle belangen en betere risicobeheersing.</p>\n<p>De rijksbrede verbetertrajecten worden via de routekaart Digitale Weerbaarheid uitgevoerd. Die is initieel opgesteld naar aanleiding van <a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/digitale-weerbaarheid/\" target=\"_blank\">thema 2: ‘Versterken digitale weerbaarheid’</a> van de <a href=\"https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/i-strategie-rijk-2021-2025/digitale-weerbaarheid/\" target=\"_blank\">I-strategie Rijk</a>. Op de routekaart zijn ongeveer 15 (het aantal fluctueert) rijksbrede trajecten opgenomen. Deze worden aangestuurd door een stuurgroep met een brede vertegenwoordiging en er vindt ook rapportage plaats richting <a href=\"https://www.rijksoverheid.nl/documenten/kamerstukken/2023/07/13/kamerbrief-i-strategie-rijk-actualisatie-routekaarten-evaluatie-i-agenda\" target=\"_blank\">de Tweede Kamer</a>.</p>",
+            "preview": "Burgers en bedrijven moeten erop kunnen vertrouwen dat de Rijksoverheid zorgvuldig omgaat met hun gegevens en dat ze haar taken betrouwbaar uitvoert. De overheid werkt namelijk met veel gevoelige gegevens.",
+            "introductie": "<p>Burgers en bedrijven moeten erop kunnen vertrouwen dat de Rijksoverheid zorgvuldig omgaat met hun gegevens en dat ze haar taken betrouwbaar uitvoert. De overheid werkt namelijk met veel gevoelige gegevens.</p>\n<p>Als de overheid problemen heeft met de uitvoering van haar taken, heeft dat al snel een maatschappelijke impact. Bij het voorkomen en oplossen daarvan komen ook informatiebeveiliging en cybersecurity aan bod. Het zorgt ervoor dat gegevens alleen toegankelijk zijn voor de juiste personen, beschikbaar zijn op het juiste moment en volledig en correct zijn.</p>\n<p>xxxxxxxx</p>"
+        }
+    },
+    "fy": {
+        "Grafieken": {
+            "GrafiekKostenCategorie": "",
+            "GrafiekDoorlooptijdwijzigingRedenen": "",
+            "GestartBeëindigdTitel": "",
+            "GrafiekDoorlooptijdAantallen": "",
+            "GrafiekGestartBeëindigd": "",
+            "DoorlooptijdAantallenTitel": "",
+            "DoorlooptijdwijzigingRedenenTitel": "",
+            "KostenCategorieTitel": ""
+        },
+        "Home": {
+            "Introductie": "",
+            "OpenData": "",
+            "IctKosten": "",
+            "MaatschappelijkeBaten": "",
+            "Introductie kengetallen": ""
+        },
+        "Contact": {
+            "content": ""
+        },
+        "Sitemap": {
+            "content": ""
+        },
+        "Privacyverklaring": {
+            "content": ""
+        },
+        "Copyright": {
+            "content": ""
+        },
+        "Cookies": {
+            "content": ""
+        },
+        "Toegankelijkheid": {
+            "content": "",
+            "preview": ""
+        },
+        "Kwetsbaarheid melden": {
+            "content": ""
+        },
+        "Rapportgeschiedenis": {
+            "content": ""
+        },
+        "Open data": {
+            "content": ""
+        },
+        "Over": {
+            "deel1": "",
+            "deel2": ""
+        },
+        "ICT-kosten": {
+            "kostenTotaalBL": "",
+            "kostenTotaalStelselTitel": "",
+            "kostenTotaalKV": "",
+            "content": "",
+            "Deel 1": "",
+            "Deel 2": ""
+        },
+        "Dashboard": {
+            "StatusverdelingTitel": "",
+            "ToelichtingTop3ToegevoegdeActiviteiten": "",
+            "ToelichtingTop3AfgerondeActiviteiten": "",
+            "ToelichtingAantalActiviteitenInUitvoering": "",
+            "ToelichtingAantalActiviteitenAfgerond": "",
+            "DashboardKopSubtitel": "",
+            "ToelichtingDoorlooptijd": "",
+            "ToelichtingBit": "",
+            "ToelichtingSchattingTotaleKosten": "",
+            "SchattingTotaleKostenSubtitel": "",
+            "SchattingTotaleKostenTitel": "",
+            "StatusverdelingSubtitel": "",
+            "DashboardKop": "",
+            "GewijzifdeIctActiviteiten": ""
+        },
+        "Onderwerpen": {
+            "content": "",
+            "preview": ""
+        },
+        "Ministeries": {
+            "content": ""
+        },
+        "ICT-activiteiten overzicht": {
+            "content": ""
+        },
+        "I-strategie": {
+            "preview": "",
+            "content": "",
+            "Deel 1": "",
+            "Deel 2": ""
+        },
+        "ICT-medewerkers": {
+            "preview": "",
+            "Deel 1": "",
+            "Deel 2": "",
+            "content": ""
+        },
+        "Duurzaamheid": {
+            "preview": "",
+            "content_deel2": "",
+            "content": "",
+            "Verminderen dubbele devices": "",
+            "Verminderen dataopslag": "",
+            "Bewustwording van gedrag": "",
+            "Efficiënt opslaan": "",
+            "Content zonder projecten": "",
+            "Innovatie van datacentra": ""
+        },
+        "I-plannen": {
+            "DEF": "",
+            "BZK": "",
+            "FIN": "",
+            "JENV": "",
+            "OCW": "",
+            "VWS": "",
+            "EZK": "",
+            "BZ": "",
+            "IENW": "",
+            "LNV": "",
+            "SZW": "",
+            "AZ": ""
+        },
+        "Maatschappelijke baten": {
+            "preview": "",
+            "continuïteit": "",
+            "compliance": "",
+            "veiligheid": "",
+            "content": "",
+            "efficiëntie": "",
+            "vakmanschap": "",
+            "duurzaamheid": "",
+            "dienstverlening": ""
+        },
+        "Release notes": {
+            "content": ""
+        },
+        "Archief": {
+            "content": ""
+        },
+        "AI": {
+            "content": "",
+            "preview": ""
+        },
+        "Algoritmen": {
+            "content": "",
+            "preview": "",
+            "Meer over verantwoord algoritmegebruik door de overheid": "",
+            "Impactvolle algoritmes": "",
+            "Openheid in Algoritmeregister": "",
+            "Doelen Algoritmeregister": ""
+        },
+        "Grote ICT-activiteiten": {
+            "preview": ""
+        },
+        "Architectuur": {
+            "content": "",
+            "preview": ""
+        },
+        "Softwarekwaliteit": {
+            "content": "",
+            "preview": ""
+        },
+        "Informatiehuishouding": {
+            "content": "",
+            "preview": "",
+            "Verbeteren van de informatiehuishouding": "",
+            "Volwassenheidsmeting": "",
+            "Stand van zaken per thema": "",
+            "Huidige stand van zaken": ""
+        },
+        "Informatiebeveiliging": {
+            "content": "",
+            "preview": "",
+            "introductie": ""
+        }
+    },
+    "pap": {
+        "Grafieken": {
+            "GrafiekKostenCategorie": "",
+            "GrafiekDoorlooptijdwijzigingRedenen": "",
+            "GestartBeëindigdTitel": "",
+            "GrafiekDoorlooptijdAantallen": "",
+            "GrafiekGestartBeëindigd": "",
+            "DoorlooptijdAantallenTitel": "",
+            "DoorlooptijdwijzigingRedenenTitel": "",
+            "KostenCategorieTitel": ""
+        },
+        "Home": {
+            "Introductie": "",
+            "OpenData": "",
+            "IctKosten": "",
+            "MaatschappelijkeBaten": "",
+            "Introductie kengetallen": ""
+        },
+        "Contact": {
+            "content": ""
+        },
+        "Sitemap": {
+            "content": ""
+        },
+        "Privacyverklaring": {
+            "content": ""
+        },
+        "Copyright": {
+            "content": ""
+        },
+        "Cookies": {
+            "content": ""
+        },
+        "Toegankelijkheid": {
+            "content": "",
+            "preview": ""
+        },
+        "Kwetsbaarheid melden": {
+            "content": ""
+        },
+        "Rapportgeschiedenis": {
+            "content": ""
+        },
+        "Open data": {
+            "content": ""
+        },
+        "Over": {
+            "deel1": "",
+            "deel2": ""
+        },
+        "ICT-kosten": {
+            "kostenTotaalBL": "",
+            "kostenTotaalStelselTitel": "",
+            "kostenTotaalKV": "",
+            "content": "",
+            "Deel 1": "",
+            "Deel 2": ""
+        },
+        "Dashboard": {
+            "StatusverdelingTitel": "",
+            "ToelichtingTop3ToegevoegdeActiviteiten": "",
+            "ToelichtingTop3AfgerondeActiviteiten": "",
+            "ToelichtingAantalActiviteitenInUitvoering": "",
+            "ToelichtingAantalActiviteitenAfgerond": "",
+            "DashboardKopSubtitel": "",
+            "ToelichtingDoorlooptijd": "",
+            "ToelichtingBit": "",
+            "ToelichtingSchattingTotaleKosten": "",
+            "SchattingTotaleKostenSubtitel": "",
+            "SchattingTotaleKostenTitel": "",
+            "StatusverdelingSubtitel": "",
+            "DashboardKop": "",
+            "GewijzifdeIctActiviteiten": ""
+        },
+        "Onderwerpen": {
+            "content": "",
+            "preview": ""
+        },
+        "Ministeries": {
+            "content": ""
+        },
+        "ICT-activiteiten overzicht": {
+            "content": ""
+        },
+        "I-strategie": {
+            "preview": "",
+            "content": "",
+            "Deel 1": "",
+            "Deel 2": ""
+        },
+        "ICT-medewerkers": {
+            "preview": "",
+            "Deel 1": "",
+            "Deel 2": "",
+            "content": ""
+        },
+        "Duurzaamheid": {
+            "preview": "",
+            "content_deel2": "",
+            "content": "",
+            "Verminderen dubbele devices": "",
+            "Verminderen dataopslag": "",
+            "Bewustwording van gedrag": "",
+            "Efficiënt opslaan": "",
+            "Content zonder projecten": "",
+            "Innovatie van datacentra": ""
+        },
+        "I-plannen": {
+            "DEF": "",
+            "BZK": "",
+            "FIN": "",
+            "JENV": "",
+            "OCW": "",
+            "VWS": "",
+            "EZK": "",
+            "BZ": "",
+            "IENW": "",
+            "LNV": "",
+            "SZW": "",
+            "AZ": ""
+        },
+        "Maatschappelijke baten": {
+            "preview": "",
+            "continuïteit": "",
+            "compliance": "",
+            "veiligheid": "",
+            "content": "",
+            "efficiëntie": "",
+            "vakmanschap": "",
+            "duurzaamheid": "",
+            "dienstverlening": ""
+        },
+        "Release notes": {
+            "content": ""
+        },
+        "Archief": {
+            "content": ""
+        },
+        "AI": {
+            "content": "",
+            "preview": ""
+        },
+        "Algoritmen": {
+            "content": "",
+            "preview": "",
+            "Meer over verantwoord algoritmegebruik door de overheid": "",
+            "Impactvolle algoritmes": "",
+            "Openheid in Algoritmeregister": "",
+            "Doelen Algoritmeregister": ""
+        },
+        "Grote ICT-activiteiten": {
+            "preview": ""
+        },
+        "Architectuur": {
+            "content": "",
+            "preview": ""
+        },
+        "Softwarekwaliteit": {
+            "content": "",
+            "preview": ""
+        },
+        "Informatiehuishouding": {
+            "content": "",
+            "preview": "",
+            "Verbeteren van de informatiehuishouding": "",
+            "Volwassenheidsmeting": "",
+            "Stand van zaken per thema": "",
+            "Huidige stand van zaken": ""
+        },
+        "Informatiebeveiliging": {
+            "content": "",
+            "preview": "",
+            "introductie": ""
+        }
+    }
+}

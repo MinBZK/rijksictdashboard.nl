@@ -1,0 +1,1 @@
+curl https://rijksictdashboard.nl/api/content -o app/data/default/supporting_text.json
